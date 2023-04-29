@@ -1,0 +1,5111 @@
+ <div class="fb-login-button" data-auto-logout-link="false" data-button-type="login_with" data-max-rows="1" data-show-faces="false" data-size="medium" data-use-continue-as="false" data-width="130" style="display: none;">
+</div>
+
+<div class="m-page-loading-wrap" id="pageLoading" style="display: none;">
+ <div class="m-page-loading">
+  <svg class="icon loading-icon" height="32" p-id="7232" t="1610960923760" version="1.1" viewbox="0 0 1024 1024" width="32" xmlns="http://www.w3.org/2000/svg">
+   <path d="M579.98461572 403.01346114c-2.7 0-5.38269258 0.06923057-8.08269257 0.13846201v-0.13846202h-78.45576943v-0.13846113c-32.33076943-1.67884628-55.35-28.45384628-51.88846114-61.26923057 3.46153886-32.79807685 32.14038427-59.60769258 64.81730742-61.26923056h79.68461572L540.93846114 75.84615372h-16.54615372v0.08653886a291.56538427 291.56538427 0 0 0-6.92307685-0.08653886C370.18076943 75.84615372 238.19230742 194.81923057 222.71923057 341.58846113c-15.47307685 146.76923057 91.38461572 265.74230742 238.67307685 265.7423083 2.31923057 0 4.62115371-0.06923057 6.92307686-0.13846201l-0.03461485 0.225h79.90961485c32.19230742 1.8 55.07307685 28.50576943 51.62884629 61.2173083-3.46153886 32.79807685-32.12307685 59.59038427-64.8 61.26923056h-79.65l45.10384628 204.4038463h16.54615372v-0.1038463c2.30192315 0.06923057 4.60384629 0.10384628 6.92307685 0.1038463 147.25384628 0 279.17307685-118.93846113 294.64615371-265.67307685 15.47307685-146.7-91.35-265.62115372-238.6038454-265.6211546M757.76923057 297.38461573a117.69230742 117.69230742 0 1 0 0-235.38461573 117.69230742 117.69230742 0 0 0 0 235.38461573M280.07692315 719.69230742a117.69230742 117.69230742 0 1 0 117.69230742 117.69230831A117.69230742 117.69230742 0 0 0 280.07692315 719.69230742" fill="#ffffff" p-id="7233">
+   </path>
+  </svg>
+  <div class="loading">
+   Loading...
+  </div>
+  <div class="loading-page-fail">
+   <p class="fail-text">
+    Data Failed loading. Please reload.
+   </p>
+   <div class="fail-btn">
+    Reload
+   </div>
+  </div>
+ </div>
+</div>
+
+<div class="m-page-loading">
+ <svg class="icon loading-icon" height="32" p-id="7232" t="1610960923760" version="1.1" viewbox="0 0 1024 1024" width="32" xmlns="http://www.w3.org/2000/svg">
+  <path d="M579.98461572 403.01346114c-2.7 0-5.38269258 0.06923057-8.08269257 0.13846201v-0.13846202h-78.45576943v-0.13846113c-32.33076943-1.67884628-55.35-28.45384628-51.88846114-61.26923057 3.46153886-32.79807685 32.14038427-59.60769258 64.81730742-61.26923056h79.68461572L540.93846114 75.84615372h-16.54615372v0.08653886a291.56538427 291.56538427 0 0 0-6.92307685-0.08653886C370.18076943 75.84615372 238.19230742 194.81923057 222.71923057 341.58846113c-15.47307685 146.76923057 91.38461572 265.74230742 238.67307685 265.7423083 2.31923057 0 4.62115371-0.06923057 6.92307686-0.13846201l-0.03461485 0.225h79.90961485c32.19230742 1.8 55.07307685 28.50576943 51.62884629 61.2173083-3.46153886 32.79807685-32.12307685 59.59038427-64.8 61.26923056h-79.65l45.10384628 204.4038463h16.54615372v-0.1038463c2.30192315 0.06923057 4.60384629 0.10384628 6.92307685 0.1038463 147.25384628 0 279.17307685-118.93846113 294.64615371-265.67307685 15.47307685-146.7-91.35-265.62115372-238.6038454-265.6211546M757.76923057 297.38461573a117.69230742 117.69230742 0 1 0 0-235.38461573 117.69230742 117.69230742 0 0 0 0 235.38461573M280.07692315 719.69230742a117.69230742 117.69230742 0 1 0 117.69230742 117.69230831A117.69230742 117.69230742 0 0 0 280.07692315 719.69230742" fill="#ffffff" p-id="7233">
+  </path>
+ </svg>
+ <div class="loading">
+  Loading...
+ </div>
+ <div class="loading-page-fail">
+  <p class="fail-text">
+   Data Failed loading. Please reload.
+  </p>
+  <div class="fail-btn">
+   Reload
+  </div>
+ </div>
+</div>
+
+<div class="loading">
+ Loading...
+</div>
+
+<div class="loading-page-fail">
+ <p class="fail-text">
+  Data Failed loading. Please reload.
+ </p>
+ <div class="fail-btn">
+  Reload
+ </div>
+</div>
+
+<div class="fail-btn">
+ Reload
+</div>
+
+<div id="noScript">
+ <h2>
+  Please turn JavaScript on in browser
+ </h2>
+ . Don't know how?
+ <a href="https://www.google.com.hk/search?q=enable+javascript+chrome+&amp;oq=enable+javascript+chrome+">
+ </a>
+</div>
+
+<div class="page-content page-content--gh">
+ <div class="m-main m-layout-main">
+  <img data-html2canvas-ignore="" height="0" src="//s.sporty.net/global/main/brand/sportybet/mobile/images/winBg.002c75d9a0.png" style="display: none;" width="0"/>
+  <div class="m-main-mid m-has-bottom-nav has-bg-color">
+   <!-- -->
+   <!-- -->
+   <div class="m-prematch-detail">
+    <div class="m-nav-secondary withHome" data-v-13470acb="">
+     <div class="m-nav-left" data-v-13470acb="">
+      <span class="m-icon m-icon--back" data-op="nav-sec-back" data-v-13470acb="">
+      </span>
+      <span class="title" data-op="nav-title" data-v-13470acb="">
+       Details
+      </span>
+     </div>
+     <div class="info-container" data-v-13470acb="">
+      <!-- -->
+      <div class="m-nav-right" data-v-13470acb="">
+       <div class="home-link" data-v-13470acb="">
+        <div class="home-icon" data-v-13470acb="">
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div>
+     <div class="m-event-title">
+      <!-- -->
+      <div class="m-event-league link">
+       Honduras - Liga Nacional. Clausura
+      </div>
+      <div class="m-event-title-team">
+       <div class="homeTeamName">
+        CD Vida La Ceiba
+       </div>
+       <div class="awayTeamName">
+        Lobos UPNFM
+       </div>
+      </div>
+      <div class="m-event-time-wrap">
+       <div class="m-event-time-left">
+        <span class="event-date">
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         29/04 Saturday
+        </span>
+        <span class="event-time">
+         21:30
+        </span>
+        <!-- -->
+        <span class="event-gameid">
+         ID 31723
+        </span>
+       </div>
+      </div>
+      <!-- -->
+     </div>
+     <div style="position: relative;">
+      <!-- -->
+     </div>
+     <div class="m-tab-navs-wrap" data-v-c0b0b3a4="">
+      <ul class="m-tab-navs" data-cls="undefined" data-disable-sticky="false" data-new-z-index="1000" data-offset="0" data-v-c0b0b3a4="">
+       <li class="m-nav-item active" data-v-c0b0b3a4="">
+        <i class="m-icon m-icon-market" data-v-c0b0b3a4="">
+        </i>
+        <span class="m-text" data-v-c0b0b3a4="">
+         Markets
+        </span>
+       </li>
+       <li class="m-nav-item" data-v-c0b0b3a4="">
+        <i class="m-icon m-icon-stat" data-v-c0b0b3a4="">
+        </i>
+        <span class="m-text" data-v-c0b0b3a4="">
+         Stats
+        </span>
+       </li>
+       <li class="m-nav-item" data-v-c0b0b3a4="">
+        <i class="m-icon m-icon-comment" data-v-c0b0b3a4="">
+        </i>
+        <span class="m-text" data-v-c0b0b3a4="">
+         Comments
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div class="m-sub-tab">
+      <div class="m-market-group pre-match event-detail">
+       <div class="m-snap-nav-wrap m-group" data-cls="undefined" data-disable-sticky="false" data-new-z-index="1000" data-offset="46" style="overflow: hidden;">
+        <ul class="m-snap-nav flex" style="transform: translate(0px, 0px) translateZ(0px); transition-duration: 350ms; transition-timing-function: cubic-bezier(0.1, 0.57, 0.1, 1); width: 1286.11px;">
+         <li class="m-sport-group-item m-snap-nav-item">
+          My Favorite
+         </li>
+         <li class="m-sport-group-item m-snap-nav-item active">
+          All
+         </li>
+         <li class="m-sport-group-item m-snap-nav-item">
+          Main
+         </li>
+         <li class="m-sport-group-item m-snap-nav-item">
+          Goals
+         </li>
+         <li class="m-sport-group-item m-snap-nav-item">
+          Half
+         </li>
+         <li class="m-sport-group-item m-snap-nav-item">
+          Bookings
+         </li>
+         <li class="m-sport-group-item m-snap-nav-item">
+          Corners
+         </li>
+         <li class="m-sport-group-item m-snap-nav-item">
+          Specials
+         </li>
+         <li class="m-sport-group-item m-snap-nav-item">
+          Player
+         </li>
+        </ul>
+        <i class="controls left-controls">
+        </i>
+        <i class="controls right-controls">
+        </i>
+       </div>
+       <div class="m-sport-market">
+        <div data-key="market-1" style="">
+         <div class="m-market m-detail-market-default" market-key="market-1" sportid="sr:sport:1">
+          <div class="m-market-title" data-v-15c4befb="">
+           <span class="dis-icon" data-v-15c4befb="">
+           </span>
+           <span class="text" data-v-15c4befb="">
+            1X2
+           </span>
+           <span class="m-icon-tips" data-v-15c4befb="">
+           </span>
+           <!-- -->
+           <span class="market-right-wrap" data-v-15c4befb="">
+            <span class="market-favor" data-v-15c4befb="">
+             <img data-v-15c4befb="" height="24px" src="//s.sporty.net/global/main/brand/sportybet/mobile/images/unfavor.be243d1110.svg" width="24px"/>
+            </span>
+           </span>
+          </div>
+          <div class="m-table market-content">
+           <div class="m-table-row">
+            <div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+             <em>
+              Home
+             </em>
+             <em>
+              2.15
+             </em>
+            </div>
+            <div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+             <em>
+              Draw
+             </em>
+             <em>
+              3.33
+             </em>
+            </div>
+            <div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+             <em>
+              Away
+             </em>
+             <em>
+              3.10
+             </em>
+            </div>
+           </div>
+          </div>
+          <!-- -->
+         </div>
+        </div>
+        <div data-key="market-18" style="min-height: 713px;">
+         <!-- -->
+        </div>
+        <div data-key="market-10" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-14" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-16" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-19" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-20" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-29" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-11" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-45" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-37" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-35" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-547" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-36" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-12" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-13" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-15" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-21" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-23" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-24" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-25" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-26" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-27" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-28" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-30" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-31" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-32" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-33" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-34" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-546" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-548" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-549" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-550" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-551" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-854" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-855" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-856" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-857" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-858" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-859" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-860" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-861" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-862" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-863" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-864" style="min-height: 44px;">
+         <!-- -->
+        </div>
+        <div data-key="market-865" style="min-height: 44px;">
+         <!-- -->
+        </div>
+       </div>
+       <div class="event-global-loading" style="display: none;">
+        <div class="loading-circle">
+        </div>
+        <div class="loading-text" data-cms-key="loading" data-cms-page="common_functions">
+         Loading
+        </div>
+       </div>
+      </div>
+     </div>
+     <!-- -->
+     <!-- -->
+    </div>
+    <!-- -->
+   </div>
+   <footer class="m-footer m-footer--gh" data-v-7ca7d3b0="">
+    <div class="copyright-wrap" data-v-7ca7d3b0="">
+     <div class="icons" data-v-7ca7d3b0="">
+      <img data-v-7ca7d3b0="" src="//s.sporty.net/global/main/brand/sportybet/mobile/images/license.89d68648de.svg"/>
+      <img data-v-7ca7d3b0="" src="//s.sporty.net/global/main/brand/sportybet/mobile/images/icon18.996cdffd94.svg"/>
+     </div>
+     <div class="copyright" data-cms-key="year_copy_right" data-cms-page="main_footer" data-v-7ca7d3b0="">
+      <p>
+       © 2023 SportyBet. All rights reserved.
+      </p>
+     </div>
+    </div>
+    <div class="partnership-wrap text-center" data-v-7ca7d3b0="">
+     <img data-cms-key="wap_partnership" data-cms-page="main_footer" data-v-7ca7d3b0="" src="https://s.sporty.net/cms/light_a81d61f961.png"/>
+    </div>
+    <div class="paybills-wrap" data-v-7ca7d3b0="">
+     <div class="paybills" data-v-7ca7d3b0="">
+      <h5 data-cms-key="paybill_title" data-cms-page="main_footer" data-v-7ca7d3b0="">
+       Paybill:
+      </h5>
+      <h4 class="value" data-cms-key="paybill_value" data-cms-page="main_footer" data-v-7ca7d3b0="">
+       *711*222#
+      </h4>
+     </div>
+    </div>
+    <div class="payment-methods" data-v-7ca7d3b0="">
+     <h5 data-cms-key="payment_methods" data-cms-page="main_footer" data-v-7ca7d3b0="">
+      Payment methods
+     </h5>
+     <div class="slider-wrap" data-v-24a785ba="" data-v-7ca7d3b0="">
+      <div class="slider-window" data-v-24a785ba="">
+       <div class="sliders" data-v-24a785ba="" style="transform: translateX(0%);">
+        <div class="row" data-v-24a785ba="">
+         <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_tigo.6983114036.png"/>
+         <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_mtn.ae94024ba1.png"/>
+         <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_airtel.3be97f5903.png"/>
+         <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_vodafone.78b5fed714.png"/>
+        </div>
+        <div class="row" data-v-24a785ba="">
+         <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_visa.fd08bf37cf.png"/>
+         <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_mc.51fc36230c.png"/>
+         <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_gtbank.a868bb38f2.png"/>
+        </div>
+       </div>
+       <div class="sliders" data-v-24a785ba="" style="transform: translateX(0%);">
+        <div class="row" data-v-24a785ba="">
+         <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_tigo.6983114036.png"/>
+         <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_mtn.ae94024ba1.png"/>
+         <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_airtel.3be97f5903.png"/>
+         <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_vodafone.78b5fed714.png"/>
+        </div>
+        <div class="row" data-v-24a785ba="">
+         <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_visa.fd08bf37cf.png"/>
+         <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_mc.51fc36230c.png"/>
+         <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_gtbank.a868bb38f2.png"/>
+        </div>
+       </div>
+      </div>
+      <!-- -->
+     </div>
+     <p data-cms-key="wap_18_age_tip" data-cms-page="main_footer" data-v-7ca7d3b0="">
+      Age 18 and above only. Play Responsibly. Betting is addictive and can be psychologically harmful. | SportyBet Ghana is licensed by the Gaming Commission of Ghana.
+     </p>
+     <!-- -->
+    </div>
+    <div class="hr" data-v-7ca7d3b0="">
+    </div>
+    <div class="t_c-about_us" data-v-7ca7d3b0="">
+     <h5 class="underline" data-v-7ca7d3b0="">
+      Terms &amp; Conditions
+     </h5>
+     <h5 class="divider" data-v-7ca7d3b0="">
+      |
+     </h5>
+     <h5 class="underline" data-v-7ca7d3b0="">
+      About Us
+     </h5>
+    </div>
+    <div class="btn" data-v-7ca7d3b0="">
+     <button data-cms-key="back_to_top" data-cms-page="main_footer" data-op="footer_back-to-top" data-v-7ca7d3b0="">
+      Back to Top
+     </button>
+    </div>
+   </footer>
+   <div class="m-bottom-nav">
+    <!-- -->
+    <div class="betslip-float-wrapper real-theme" data-op="betslip-icon">
+     <div class="bg">
+     </div>
+     <div class="count-wrapper">
+      <span class="count" data-op="bet-slip-count">
+       0
+      </span>
+     </div>
+     <div class="betslip" data-cms-key="betslip" data-cms-page="wap_main_bottom_nav">
+      BETSLIP
+     </div>
+    </div>
+    <!-- -->
+   </div>
+  </div>
+  <div class="m-main-right" style="display: none;">
+   <div class="betslip-mode-real" data-betslip-mode="real" data-op="betslip-container" id="betslip-container">
+    <div class="m-betslips m-betslips-off" style="position: absolute;">
+     <div class="m-betslip-header real-theme" data-v-71c29cfa="">
+      <div class="head-container" data-v-71c29cfa="">
+       <div class="wrapper wrapper-gap real-theme is-empty-selection" data-v-71c29cfa="">
+        <div class="wrapper-item bet-info-panel" data-v-71c29cfa="">
+         <div class="bet-count-wrapper bet-count" data-op="betslip-multi-count" data-v-57c32b1e="" data-v-71c29cfa="">
+          <span class="is-zero real-theme" data-v-57c32b1e="">
+           0
+          </span>
+         </div>
+         <div class="mode-switch-button" data-v-71c29cfa="">
+          <div class="switch-box">
+           <div class="shadow-text right-side show-highlight" data-op="switch-box-right">
+            SIM
+           </div>
+           <div class="inside-btn left-side inactive" data-op="switch-box-left">
+            REAL
+           </div>
+           <div class="fake-content fake-content-first">
+            SIM
+           </div>
+           <div class="fake-content">
+            REAL
+           </div>
+          </div>
+         </div>
+         <div class="mr-auto red-dot-block" data-v-71c29cfa="">
+          <!-- -->
+         </div>
+        </div>
+        <div class="wrapper-item middle close" data-v-71c29cfa="">
+         <div class="icon-font-base" data-v-71c29cfa="" data-v-fe6418fe="" style="font-size: 20px;">
+          
+         </div>
+        </div>
+        <div class="wrapper-item user-assets-panel" data-v-71c29cfa="">
+         <div class="not-login ml-auto" data-v-71c29cfa="">
+          <span data-cms-key="register" data-cms-page="common_functions" data-v-71c29cfa="">
+           Register
+          </span>
+          <span data-cms-key="log_in" data-cms-page="common_functions" data-v-71c29cfa="">
+           Login
+          </span>
+         </div>
+        </div>
+       </div>
+       <div class="wrapper separate-part" data-v-71c29cfa="">
+        <!-- -->
+        <!-- -->
+       </div>
+      </div>
+     </div>
+     <div class="m-bet-head">
+      <div class="m-snap-nav-wrap m-list-bet-type" style="display: none; overflow: hidden;">
+       <ul class="m-snap-nav flex" style="transform: translate(0px, 0px) translateZ(0px); transition-duration: 350ms; transition-timing-function: cubic-bezier(0.1, 0.57, 0.1, 1);">
+        <li class="m-list-bet-type-item m-snap-nav-item active" data-op="betslip-multi-tag-single">
+         <span data-cms-key="singles" data-cms-page="component_betslip">
+          Single
+         </span>
+         <!-- -->
+        </li>
+        <li class="flex flex-center m-list-bet-type-item m-snap-nav-item m-snap-nav-item--disabled" data-op="betslip-multi-tag-multi">
+         <span data-cms-key="multiple" data-cms-page="component_betslip">
+          Multiple
+         </span>
+        </li>
+        <li class="m-list-bet-type-item m-snap-nav-item m-snap-nav-item--disabled" data-op="betslip-multi-tag-system">
+         <span data-cms-key="system" data-cms-page="component_betslip">
+          System
+         </span>
+        </li>
+       </ul>
+       <i class="controls left-controls">
+       </i>
+       <i class="controls right-controls">
+       </i>
+      </div>
+      <div class="betslip-notification" data-v-3db23bd6="">
+       <!-- -->
+       <!-- -->
+       <!-- -->
+      </div>
+      <!-- -->
+     </div>
+     <div class="m-default" data-v-74657e65="">
+      <p class="m-default-info" data-v-74657e65="">
+       <span data-cms-key="please_insert_booking_code" data-cms-page="component_betslip" data-v-74657e65="">
+        Please insert booking code
+       </span>
+       <span class="m-dialog-tip" data-v-74657e65="">
+       </span>
+      </p>
+      <div class="m-code-wrapper" data-v-74657e65="">
+       <div class="country-main af-select selected" data-v-74657e65="" tabindex="0">
+        <div class="af-select-title" data-op="label-odds-option">
+         <span class="af-select-input">
+          Ghana
+          <!-- -->
+         </span>
+         <span class="af-select-icon-item">
+          <em class="icon">
+           ^
+          </em>
+         </span>
+        </div>
+        <div class="af-select-list animate-core" data-op="odds-option-menu" style="display: none; width: 0px;">
+         <span class="af-select-item active af-select-item" data-id="0" data-op="odds-option-menu-item">
+          Ghana
+         </span>
+         <span class="af-select-item af-select-item" data-id="1" data-op="odds-option-menu-item">
+          Nigeria
+         </span>
+         <span class="af-select-item af-select-item" data-id="2" data-op="odds-option-menu-item">
+          Tanzania
+         </span>
+         <span class="af-select-item af-select-item" data-id="3" data-op="odds-option-menu-item">
+          Uganda
+         </span>
+         <span class="af-select-item af-select-item" data-id="4" data-op="odds-option-menu-item">
+          Zambia
+         </span>
+         <span class="af-select-item af-select-item" data-id="5" data-op="odds-option-menu-item">
+          International
+         </span>
+         <span class="af-select-item af-select-item" data-id="6" data-op="odds-option-menu-item">
+          Brazil
+         </span>
+         <span class="af-select-item af-select-item" data-id="7" data-op="odds-option-menu-item">
+          Kenya
+         </span>
+        </div>
+       </div>
+       <div class="m-default-code m-input-wap-wrapper" data-v-74657e65="">
+        <!-- -->
+        <i class="m-input-wap-icon m-input-wap-icon--clickable m-icon-delete">
+        </i>
+        <input class="m-input-wap fs-exclude" name="" placeholder="Booking Code" type="input"/>
+        <!-- -->
+       </div>
+      </div>
+      <!-- -->
+      <div class="share-code-btn share-code-btn--disabled" data-v-74657e65="">
+       <span data-v-74657e65="">
+        Load
+       </span>
+      </div>
+      <div class="divider" data-v-74657e65="">
+       <div class="divider__mid" data-v-74657e65="">
+        or
+       </div>
+      </div>
+      <div class="feature-entry" data-v-74657e65="">
+       <!-- -->
+       <div class="feature-entry__btn" data-op="betslip-multimaker-entry" data-v-74657e65="">
+        <span data-v-74657e65="">
+         <img data-v-74657e65="" src="//s.sporty.net/global/main/modules/main/mobile/multiMaker/image/mm_main_icon.965251cc2f.svg"/>
+         <span data-cms-key="try_multi_maker" data-cms-page="component_betslip" data-v-74657e65="">
+          Try Multi Maker
+         </span>
+        </span>
+       </div>
+      </div>
+     </div>
+     <!-- -->
+    </div>
+    <!-- -->
+    <!-- -->
+    <div class="drawer bet-settings-panel-container" data-v-4dabf22c="" data-v-5982aeed="" style="display: none;">
+     <div class="drawer__mask" data-v-5982aeed="" style="background-color: black;">
+     </div>
+     <!-- -->
+    </div>
+   </div>
+  </div>
+  <!-- -->
+ </div>
+ <script defer="" src="//s.sporty.net/global/main/modules/common-main-wap/lib/base-lib.5296987f0d.js">
+ </script>
+ <script defer="" src="//s.sporty.net/global/main/modules/common-main-wap/lib/index.88abc2cb80.js">
+ </script>
+ <script defer="" src="//s.sporty.net/global/main/modules/common-main-wap/appCore/index.91b3218f30.js">
+ </script>
+ <script defer="" src="//s.sporty.net/global/main/modules/common-main-wap/base/base.8a25f369a4.js">
+ </script>
+ <script defer="" src="//s.sporty.net/global/main/modules/common-main-wap/lib/betslip.eedaf2f11f.js">
+ </script>
+ <script defer="" src="//s.sporty.net/global/main/modules/common-main-wap/core/core.4585365cc1.js">
+ </script>
+ <script defer="" src="//s.sporty.net/global/main/vendors~modules/main/mobile/activity/annualSummary/index~modules/main/mobile/activity/collectGifts/i~c80ae3d9.e10db0b465.js">
+ </script>
+ <script defer="" src="//s.sporty.net/global/main/modules/main/mobile/index/index.a3fb6bda9d.js">
+ </script>
+</div>
+
+<div class="m-main m-layout-main">
+ <img data-html2canvas-ignore="" height="0" src="//s.sporty.net/global/main/brand/sportybet/mobile/images/winBg.002c75d9a0.png" style="display: none;" width="0"/>
+ <div class="m-main-mid m-has-bottom-nav has-bg-color">
+  <!-- -->
+  <!-- -->
+  <div class="m-prematch-detail">
+   <div class="m-nav-secondary withHome" data-v-13470acb="">
+    <div class="m-nav-left" data-v-13470acb="">
+     <span class="m-icon m-icon--back" data-op="nav-sec-back" data-v-13470acb="">
+     </span>
+     <span class="title" data-op="nav-title" data-v-13470acb="">
+      Details
+     </span>
+    </div>
+    <div class="info-container" data-v-13470acb="">
+     <!-- -->
+     <div class="m-nav-right" data-v-13470acb="">
+      <div class="home-link" data-v-13470acb="">
+       <div class="home-icon" data-v-13470acb="">
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="m-event-title">
+     <!-- -->
+     <div class="m-event-league link">
+      Honduras - Liga Nacional. Clausura
+     </div>
+     <div class="m-event-title-team">
+      <div class="homeTeamName">
+       CD Vida La Ceiba
+      </div>
+      <div class="awayTeamName">
+       Lobos UPNFM
+      </div>
+     </div>
+     <div class="m-event-time-wrap">
+      <div class="m-event-time-left">
+       <span class="event-date">
+        <!-- -->
+        <!-- -->
+        <!-- -->
+        29/04 Saturday
+       </span>
+       <span class="event-time">
+        21:30
+       </span>
+       <!-- -->
+       <span class="event-gameid">
+        ID 31723
+       </span>
+      </div>
+     </div>
+     <!-- -->
+    </div>
+    <div style="position: relative;">
+     <!-- -->
+    </div>
+    <div class="m-tab-navs-wrap" data-v-c0b0b3a4="">
+     <ul class="m-tab-navs" data-cls="undefined" data-disable-sticky="false" data-new-z-index="1000" data-offset="0" data-v-c0b0b3a4="">
+      <li class="m-nav-item active" data-v-c0b0b3a4="">
+       <i class="m-icon m-icon-market" data-v-c0b0b3a4="">
+       </i>
+       <span class="m-text" data-v-c0b0b3a4="">
+        Markets
+       </span>
+      </li>
+      <li class="m-nav-item" data-v-c0b0b3a4="">
+       <i class="m-icon m-icon-stat" data-v-c0b0b3a4="">
+       </i>
+       <span class="m-text" data-v-c0b0b3a4="">
+        Stats
+       </span>
+      </li>
+      <li class="m-nav-item" data-v-c0b0b3a4="">
+       <i class="m-icon m-icon-comment" data-v-c0b0b3a4="">
+       </i>
+       <span class="m-text" data-v-c0b0b3a4="">
+        Comments
+       </span>
+      </li>
+     </ul>
+    </div>
+    <div class="m-sub-tab">
+     <div class="m-market-group pre-match event-detail">
+      <div class="m-snap-nav-wrap m-group" data-cls="undefined" data-disable-sticky="false" data-new-z-index="1000" data-offset="46" style="overflow: hidden;">
+       <ul class="m-snap-nav flex" style="transform: translate(0px, 0px) translateZ(0px); transition-duration: 350ms; transition-timing-function: cubic-bezier(0.1, 0.57, 0.1, 1); width: 1286.11px;">
+        <li class="m-sport-group-item m-snap-nav-item">
+         My Favorite
+        </li>
+        <li class="m-sport-group-item m-snap-nav-item active">
+         All
+        </li>
+        <li class="m-sport-group-item m-snap-nav-item">
+         Main
+        </li>
+        <li class="m-sport-group-item m-snap-nav-item">
+         Goals
+        </li>
+        <li class="m-sport-group-item m-snap-nav-item">
+         Half
+        </li>
+        <li class="m-sport-group-item m-snap-nav-item">
+         Bookings
+        </li>
+        <li class="m-sport-group-item m-snap-nav-item">
+         Corners
+        </li>
+        <li class="m-sport-group-item m-snap-nav-item">
+         Specials
+        </li>
+        <li class="m-sport-group-item m-snap-nav-item">
+         Player
+        </li>
+       </ul>
+       <i class="controls left-controls">
+       </i>
+       <i class="controls right-controls">
+       </i>
+      </div>
+      <div class="m-sport-market">
+       <div data-key="market-1" style="">
+        <div class="m-market m-detail-market-default" market-key="market-1" sportid="sr:sport:1">
+         <div class="m-market-title" data-v-15c4befb="">
+          <span class="dis-icon" data-v-15c4befb="">
+          </span>
+          <span class="text" data-v-15c4befb="">
+           1X2
+          </span>
+          <span class="m-icon-tips" data-v-15c4befb="">
+          </span>
+          <!-- -->
+          <span class="market-right-wrap" data-v-15c4befb="">
+           <span class="market-favor" data-v-15c4befb="">
+            <img data-v-15c4befb="" height="24px" src="//s.sporty.net/global/main/brand/sportybet/mobile/images/unfavor.be243d1110.svg" width="24px"/>
+           </span>
+          </span>
+         </div>
+         <div class="m-table market-content">
+          <div class="m-table-row">
+           <div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+            <em>
+             Home
+            </em>
+            <em>
+             2.15
+            </em>
+           </div>
+           <div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+            <em>
+             Draw
+            </em>
+            <em>
+             3.33
+            </em>
+           </div>
+           <div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+            <em>
+             Away
+            </em>
+            <em>
+             3.10
+            </em>
+           </div>
+          </div>
+         </div>
+         <!-- -->
+        </div>
+       </div>
+       <div data-key="market-18" style="min-height: 713px;">
+        <!-- -->
+       </div>
+       <div data-key="market-10" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-14" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-16" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-19" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-20" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-29" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-11" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-45" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-37" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-35" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-547" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-36" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-12" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-13" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-15" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-21" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-23" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-24" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-25" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-26" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-27" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-28" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-30" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-31" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-32" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-33" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-34" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-546" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-548" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-549" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-550" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-551" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-854" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-855" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-856" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-857" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-858" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-859" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-860" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-861" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-862" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-863" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-864" style="min-height: 44px;">
+        <!-- -->
+       </div>
+       <div data-key="market-865" style="min-height: 44px;">
+        <!-- -->
+       </div>
+      </div>
+      <div class="event-global-loading" style="display: none;">
+       <div class="loading-circle">
+       </div>
+       <div class="loading-text" data-cms-key="loading" data-cms-page="common_functions">
+        Loading
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- -->
+    <!-- -->
+   </div>
+   <!-- -->
+  </div>
+  <footer class="m-footer m-footer--gh" data-v-7ca7d3b0="">
+   <div class="copyright-wrap" data-v-7ca7d3b0="">
+    <div class="icons" data-v-7ca7d3b0="">
+     <img data-v-7ca7d3b0="" src="//s.sporty.net/global/main/brand/sportybet/mobile/images/license.89d68648de.svg"/>
+     <img data-v-7ca7d3b0="" src="//s.sporty.net/global/main/brand/sportybet/mobile/images/icon18.996cdffd94.svg"/>
+    </div>
+    <div class="copyright" data-cms-key="year_copy_right" data-cms-page="main_footer" data-v-7ca7d3b0="">
+     <p>
+      © 2023 SportyBet. All rights reserved.
+     </p>
+    </div>
+   </div>
+   <div class="partnership-wrap text-center" data-v-7ca7d3b0="">
+    <img data-cms-key="wap_partnership" data-cms-page="main_footer" data-v-7ca7d3b0="" src="https://s.sporty.net/cms/light_a81d61f961.png"/>
+   </div>
+   <div class="paybills-wrap" data-v-7ca7d3b0="">
+    <div class="paybills" data-v-7ca7d3b0="">
+     <h5 data-cms-key="paybill_title" data-cms-page="main_footer" data-v-7ca7d3b0="">
+      Paybill:
+     </h5>
+     <h4 class="value" data-cms-key="paybill_value" data-cms-page="main_footer" data-v-7ca7d3b0="">
+      *711*222#
+     </h4>
+    </div>
+   </div>
+   <div class="payment-methods" data-v-7ca7d3b0="">
+    <h5 data-cms-key="payment_methods" data-cms-page="main_footer" data-v-7ca7d3b0="">
+     Payment methods
+    </h5>
+    <div class="slider-wrap" data-v-24a785ba="" data-v-7ca7d3b0="">
+     <div class="slider-window" data-v-24a785ba="">
+      <div class="sliders" data-v-24a785ba="" style="transform: translateX(0%);">
+       <div class="row" data-v-24a785ba="">
+        <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_tigo.6983114036.png"/>
+        <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_mtn.ae94024ba1.png"/>
+        <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_airtel.3be97f5903.png"/>
+        <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_vodafone.78b5fed714.png"/>
+       </div>
+       <div class="row" data-v-24a785ba="">
+        <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_visa.fd08bf37cf.png"/>
+        <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_mc.51fc36230c.png"/>
+        <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_gtbank.a868bb38f2.png"/>
+       </div>
+      </div>
+      <div class="sliders" data-v-24a785ba="" style="transform: translateX(0%);">
+       <div class="row" data-v-24a785ba="">
+        <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_tigo.6983114036.png"/>
+        <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_mtn.ae94024ba1.png"/>
+        <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_airtel.3be97f5903.png"/>
+        <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_vodafone.78b5fed714.png"/>
+       </div>
+       <div class="row" data-v-24a785ba="">
+        <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_visa.fd08bf37cf.png"/>
+        <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_mc.51fc36230c.png"/>
+        <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_gtbank.a868bb38f2.png"/>
+       </div>
+      </div>
+     </div>
+     <!-- -->
+    </div>
+    <p data-cms-key="wap_18_age_tip" data-cms-page="main_footer" data-v-7ca7d3b0="">
+     Age 18 and above only. Play Responsibly. Betting is addictive and can be psychologically harmful. | SportyBet Ghana is licensed by the Gaming Commission of Ghana.
+    </p>
+    <!-- -->
+   </div>
+   <div class="hr" data-v-7ca7d3b0="">
+   </div>
+   <div class="t_c-about_us" data-v-7ca7d3b0="">
+    <h5 class="underline" data-v-7ca7d3b0="">
+     Terms &amp; Conditions
+    </h5>
+    <h5 class="divider" data-v-7ca7d3b0="">
+     |
+    </h5>
+    <h5 class="underline" data-v-7ca7d3b0="">
+     About Us
+    </h5>
+   </div>
+   <div class="btn" data-v-7ca7d3b0="">
+    <button data-cms-key="back_to_top" data-cms-page="main_footer" data-op="footer_back-to-top" data-v-7ca7d3b0="">
+     Back to Top
+    </button>
+   </div>
+  </footer>
+  <div class="m-bottom-nav">
+   <!-- -->
+   <div class="betslip-float-wrapper real-theme" data-op="betslip-icon">
+    <div class="bg">
+    </div>
+    <div class="count-wrapper">
+     <span class="count" data-op="bet-slip-count">
+      0
+     </span>
+    </div>
+    <div class="betslip" data-cms-key="betslip" data-cms-page="wap_main_bottom_nav">
+     BETSLIP
+    </div>
+   </div>
+   <!-- -->
+  </div>
+ </div>
+ <div class="m-main-right" style="display: none;">
+  <div class="betslip-mode-real" data-betslip-mode="real" data-op="betslip-container" id="betslip-container">
+   <div class="m-betslips m-betslips-off" style="position: absolute;">
+    <div class="m-betslip-header real-theme" data-v-71c29cfa="">
+     <div class="head-container" data-v-71c29cfa="">
+      <div class="wrapper wrapper-gap real-theme is-empty-selection" data-v-71c29cfa="">
+       <div class="wrapper-item bet-info-panel" data-v-71c29cfa="">
+        <div class="bet-count-wrapper bet-count" data-op="betslip-multi-count" data-v-57c32b1e="" data-v-71c29cfa="">
+         <span class="is-zero real-theme" data-v-57c32b1e="">
+          0
+         </span>
+        </div>
+        <div class="mode-switch-button" data-v-71c29cfa="">
+         <div class="switch-box">
+          <div class="shadow-text right-side show-highlight" data-op="switch-box-right">
+           SIM
+          </div>
+          <div class="inside-btn left-side inactive" data-op="switch-box-left">
+           REAL
+          </div>
+          <div class="fake-content fake-content-first">
+           SIM
+          </div>
+          <div class="fake-content">
+           REAL
+          </div>
+         </div>
+        </div>
+        <div class="mr-auto red-dot-block" data-v-71c29cfa="">
+         <!-- -->
+        </div>
+       </div>
+       <div class="wrapper-item middle close" data-v-71c29cfa="">
+        <div class="icon-font-base" data-v-71c29cfa="" data-v-fe6418fe="" style="font-size: 20px;">
+         
+        </div>
+       </div>
+       <div class="wrapper-item user-assets-panel" data-v-71c29cfa="">
+        <div class="not-login ml-auto" data-v-71c29cfa="">
+         <span data-cms-key="register" data-cms-page="common_functions" data-v-71c29cfa="">
+          Register
+         </span>
+         <span data-cms-key="log_in" data-cms-page="common_functions" data-v-71c29cfa="">
+          Login
+         </span>
+        </div>
+       </div>
+      </div>
+      <div class="wrapper separate-part" data-v-71c29cfa="">
+       <!-- -->
+       <!-- -->
+      </div>
+     </div>
+    </div>
+    <div class="m-bet-head">
+     <div class="m-snap-nav-wrap m-list-bet-type" style="display: none; overflow: hidden;">
+      <ul class="m-snap-nav flex" style="transform: translate(0px, 0px) translateZ(0px); transition-duration: 350ms; transition-timing-function: cubic-bezier(0.1, 0.57, 0.1, 1);">
+       <li class="m-list-bet-type-item m-snap-nav-item active" data-op="betslip-multi-tag-single">
+        <span data-cms-key="singles" data-cms-page="component_betslip">
+         Single
+        </span>
+        <!-- -->
+       </li>
+       <li class="flex flex-center m-list-bet-type-item m-snap-nav-item m-snap-nav-item--disabled" data-op="betslip-multi-tag-multi">
+        <span data-cms-key="multiple" data-cms-page="component_betslip">
+         Multiple
+        </span>
+       </li>
+       <li class="m-list-bet-type-item m-snap-nav-item m-snap-nav-item--disabled" data-op="betslip-multi-tag-system">
+        <span data-cms-key="system" data-cms-page="component_betslip">
+         System
+        </span>
+       </li>
+      </ul>
+      <i class="controls left-controls">
+      </i>
+      <i class="controls right-controls">
+      </i>
+     </div>
+     <div class="betslip-notification" data-v-3db23bd6="">
+      <!-- -->
+      <!-- -->
+      <!-- -->
+     </div>
+     <!-- -->
+    </div>
+    <div class="m-default" data-v-74657e65="">
+     <p class="m-default-info" data-v-74657e65="">
+      <span data-cms-key="please_insert_booking_code" data-cms-page="component_betslip" data-v-74657e65="">
+       Please insert booking code
+      </span>
+      <span class="m-dialog-tip" data-v-74657e65="">
+      </span>
+     </p>
+     <div class="m-code-wrapper" data-v-74657e65="">
+      <div class="country-main af-select selected" data-v-74657e65="" tabindex="0">
+       <div class="af-select-title" data-op="label-odds-option">
+        <span class="af-select-input">
+         Ghana
+         <!-- -->
+        </span>
+        <span class="af-select-icon-item">
+         <em class="icon">
+          ^
+         </em>
+        </span>
+       </div>
+       <div class="af-select-list animate-core" data-op="odds-option-menu" style="display: none; width: 0px;">
+        <span class="af-select-item active af-select-item" data-id="0" data-op="odds-option-menu-item">
+         Ghana
+        </span>
+        <span class="af-select-item af-select-item" data-id="1" data-op="odds-option-menu-item">
+         Nigeria
+        </span>
+        <span class="af-select-item af-select-item" data-id="2" data-op="odds-option-menu-item">
+         Tanzania
+        </span>
+        <span class="af-select-item af-select-item" data-id="3" data-op="odds-option-menu-item">
+         Uganda
+        </span>
+        <span class="af-select-item af-select-item" data-id="4" data-op="odds-option-menu-item">
+         Zambia
+        </span>
+        <span class="af-select-item af-select-item" data-id="5" data-op="odds-option-menu-item">
+         International
+        </span>
+        <span class="af-select-item af-select-item" data-id="6" data-op="odds-option-menu-item">
+         Brazil
+        </span>
+        <span class="af-select-item af-select-item" data-id="7" data-op="odds-option-menu-item">
+         Kenya
+        </span>
+       </div>
+      </div>
+      <div class="m-default-code m-input-wap-wrapper" data-v-74657e65="">
+       <!-- -->
+       <i class="m-input-wap-icon m-input-wap-icon--clickable m-icon-delete">
+       </i>
+       <input class="m-input-wap fs-exclude" name="" placeholder="Booking Code" type="input"/>
+       <!-- -->
+      </div>
+     </div>
+     <!-- -->
+     <div class="share-code-btn share-code-btn--disabled" data-v-74657e65="">
+      <span data-v-74657e65="">
+       Load
+      </span>
+     </div>
+     <div class="divider" data-v-74657e65="">
+      <div class="divider__mid" data-v-74657e65="">
+       or
+      </div>
+     </div>
+     <div class="feature-entry" data-v-74657e65="">
+      <!-- -->
+      <div class="feature-entry__btn" data-op="betslip-multimaker-entry" data-v-74657e65="">
+       <span data-v-74657e65="">
+        <img data-v-74657e65="" src="//s.sporty.net/global/main/modules/main/mobile/multiMaker/image/mm_main_icon.965251cc2f.svg"/>
+        <span data-cms-key="try_multi_maker" data-cms-page="component_betslip" data-v-74657e65="">
+         Try Multi Maker
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+    <!-- -->
+   </div>
+   <!-- -->
+   <!-- -->
+   <div class="drawer bet-settings-panel-container" data-v-4dabf22c="" data-v-5982aeed="" style="display: none;">
+    <div class="drawer__mask" data-v-5982aeed="" style="background-color: black;">
+    </div>
+    <!-- -->
+   </div>
+  </div>
+ </div>
+ <!-- -->
+</div>
+
+<div class="m-main-mid m-has-bottom-nav has-bg-color">
+ <!-- -->
+ <!-- -->
+ <div class="m-prematch-detail">
+  <div class="m-nav-secondary withHome" data-v-13470acb="">
+   <div class="m-nav-left" data-v-13470acb="">
+    <span class="m-icon m-icon--back" data-op="nav-sec-back" data-v-13470acb="">
+    </span>
+    <span class="title" data-op="nav-title" data-v-13470acb="">
+     Details
+    </span>
+   </div>
+   <div class="info-container" data-v-13470acb="">
+    <!-- -->
+    <div class="m-nav-right" data-v-13470acb="">
+     <div class="home-link" data-v-13470acb="">
+      <div class="home-icon" data-v-13470acb="">
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div>
+   <div class="m-event-title">
+    <!-- -->
+    <div class="m-event-league link">
+     Honduras - Liga Nacional. Clausura
+    </div>
+    <div class="m-event-title-team">
+     <div class="homeTeamName">
+      CD Vida La Ceiba
+     </div>
+     <div class="awayTeamName">
+      Lobos UPNFM
+     </div>
+    </div>
+    <div class="m-event-time-wrap">
+     <div class="m-event-time-left">
+      <span class="event-date">
+       <!-- -->
+       <!-- -->
+       <!-- -->
+       29/04 Saturday
+      </span>
+      <span class="event-time">
+       21:30
+      </span>
+      <!-- -->
+      <span class="event-gameid">
+       ID 31723
+      </span>
+     </div>
+    </div>
+    <!-- -->
+   </div>
+   <div style="position: relative;">
+    <!-- -->
+   </div>
+   <div class="m-tab-navs-wrap" data-v-c0b0b3a4="">
+    <ul class="m-tab-navs" data-cls="undefined" data-disable-sticky="false" data-new-z-index="1000" data-offset="0" data-v-c0b0b3a4="">
+     <li class="m-nav-item active" data-v-c0b0b3a4="">
+      <i class="m-icon m-icon-market" data-v-c0b0b3a4="">
+      </i>
+      <span class="m-text" data-v-c0b0b3a4="">
+       Markets
+      </span>
+     </li>
+     <li class="m-nav-item" data-v-c0b0b3a4="">
+      <i class="m-icon m-icon-stat" data-v-c0b0b3a4="">
+      </i>
+      <span class="m-text" data-v-c0b0b3a4="">
+       Stats
+      </span>
+     </li>
+     <li class="m-nav-item" data-v-c0b0b3a4="">
+      <i class="m-icon m-icon-comment" data-v-c0b0b3a4="">
+      </i>
+      <span class="m-text" data-v-c0b0b3a4="">
+       Comments
+      </span>
+     </li>
+    </ul>
+   </div>
+   <div class="m-sub-tab">
+    <div class="m-market-group pre-match event-detail">
+     <div class="m-snap-nav-wrap m-group" data-cls="undefined" data-disable-sticky="false" data-new-z-index="1000" data-offset="46" style="overflow: hidden;">
+      <ul class="m-snap-nav flex" style="transform: translate(0px, 0px) translateZ(0px); transition-duration: 350ms; transition-timing-function: cubic-bezier(0.1, 0.57, 0.1, 1); width: 1286.11px;">
+       <li class="m-sport-group-item m-snap-nav-item">
+        My Favorite
+       </li>
+       <li class="m-sport-group-item m-snap-nav-item active">
+        All
+       </li>
+       <li class="m-sport-group-item m-snap-nav-item">
+        Main
+       </li>
+       <li class="m-sport-group-item m-snap-nav-item">
+        Goals
+       </li>
+       <li class="m-sport-group-item m-snap-nav-item">
+        Half
+       </li>
+       <li class="m-sport-group-item m-snap-nav-item">
+        Bookings
+       </li>
+       <li class="m-sport-group-item m-snap-nav-item">
+        Corners
+       </li>
+       <li class="m-sport-group-item m-snap-nav-item">
+        Specials
+       </li>
+       <li class="m-sport-group-item m-snap-nav-item">
+        Player
+       </li>
+      </ul>
+      <i class="controls left-controls">
+      </i>
+      <i class="controls right-controls">
+      </i>
+     </div>
+     <div class="m-sport-market">
+      <div data-key="market-1" style="">
+       <div class="m-market m-detail-market-default" market-key="market-1" sportid="sr:sport:1">
+        <div class="m-market-title" data-v-15c4befb="">
+         <span class="dis-icon" data-v-15c4befb="">
+         </span>
+         <span class="text" data-v-15c4befb="">
+          1X2
+         </span>
+         <span class="m-icon-tips" data-v-15c4befb="">
+         </span>
+         <!-- -->
+         <span class="market-right-wrap" data-v-15c4befb="">
+          <span class="market-favor" data-v-15c4befb="">
+           <img data-v-15c4befb="" height="24px" src="//s.sporty.net/global/main/brand/sportybet/mobile/images/unfavor.be243d1110.svg" width="24px"/>
+          </span>
+         </span>
+        </div>
+        <div class="m-table market-content">
+         <div class="m-table-row">
+          <div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+           <em>
+            Home
+           </em>
+           <em>
+            2.15
+           </em>
+          </div>
+          <div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+           <em>
+            Draw
+           </em>
+           <em>
+            3.33
+           </em>
+          </div>
+          <div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+           <em>
+            Away
+           </em>
+           <em>
+            3.10
+           </em>
+          </div>
+         </div>
+        </div>
+        <!-- -->
+       </div>
+      </div>
+      <div data-key="market-18" style="min-height: 713px;">
+       <!-- -->
+      </div>
+      <div data-key="market-10" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-14" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-16" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-19" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-20" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-29" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-11" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-45" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-37" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-35" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-547" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-36" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-12" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-13" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-15" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-21" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-23" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-24" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-25" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-26" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-27" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-28" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-30" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-31" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-32" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-33" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-34" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-546" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-548" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-549" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-550" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-551" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-854" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-855" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-856" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-857" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-858" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-859" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-860" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-861" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-862" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-863" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-864" style="min-height: 44px;">
+       <!-- -->
+      </div>
+      <div data-key="market-865" style="min-height: 44px;">
+       <!-- -->
+      </div>
+     </div>
+     <div class="event-global-loading" style="display: none;">
+      <div class="loading-circle">
+      </div>
+      <div class="loading-text" data-cms-key="loading" data-cms-page="common_functions">
+       Loading
+      </div>
+     </div>
+    </div>
+   </div>
+   <!-- -->
+   <!-- -->
+  </div>
+  <!-- -->
+ </div>
+ <footer class="m-footer m-footer--gh" data-v-7ca7d3b0="">
+  <div class="copyright-wrap" data-v-7ca7d3b0="">
+   <div class="icons" data-v-7ca7d3b0="">
+    <img data-v-7ca7d3b0="" src="//s.sporty.net/global/main/brand/sportybet/mobile/images/license.89d68648de.svg"/>
+    <img data-v-7ca7d3b0="" src="//s.sporty.net/global/main/brand/sportybet/mobile/images/icon18.996cdffd94.svg"/>
+   </div>
+   <div class="copyright" data-cms-key="year_copy_right" data-cms-page="main_footer" data-v-7ca7d3b0="">
+    <p>
+     © 2023 SportyBet. All rights reserved.
+    </p>
+   </div>
+  </div>
+  <div class="partnership-wrap text-center" data-v-7ca7d3b0="">
+   <img data-cms-key="wap_partnership" data-cms-page="main_footer" data-v-7ca7d3b0="" src="https://s.sporty.net/cms/light_a81d61f961.png"/>
+  </div>
+  <div class="paybills-wrap" data-v-7ca7d3b0="">
+   <div class="paybills" data-v-7ca7d3b0="">
+    <h5 data-cms-key="paybill_title" data-cms-page="main_footer" data-v-7ca7d3b0="">
+     Paybill:
+    </h5>
+    <h4 class="value" data-cms-key="paybill_value" data-cms-page="main_footer" data-v-7ca7d3b0="">
+     *711*222#
+    </h4>
+   </div>
+  </div>
+  <div class="payment-methods" data-v-7ca7d3b0="">
+   <h5 data-cms-key="payment_methods" data-cms-page="main_footer" data-v-7ca7d3b0="">
+    Payment methods
+   </h5>
+   <div class="slider-wrap" data-v-24a785ba="" data-v-7ca7d3b0="">
+    <div class="slider-window" data-v-24a785ba="">
+     <div class="sliders" data-v-24a785ba="" style="transform: translateX(0%);">
+      <div class="row" data-v-24a785ba="">
+       <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_tigo.6983114036.png"/>
+       <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_mtn.ae94024ba1.png"/>
+       <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_airtel.3be97f5903.png"/>
+       <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_vodafone.78b5fed714.png"/>
+      </div>
+      <div class="row" data-v-24a785ba="">
+       <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_visa.fd08bf37cf.png"/>
+       <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_mc.51fc36230c.png"/>
+       <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_gtbank.a868bb38f2.png"/>
+      </div>
+     </div>
+     <div class="sliders" data-v-24a785ba="" style="transform: translateX(0%);">
+      <div class="row" data-v-24a785ba="">
+       <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_tigo.6983114036.png"/>
+       <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_mtn.ae94024ba1.png"/>
+       <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_airtel.3be97f5903.png"/>
+       <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_vodafone.78b5fed714.png"/>
+      </div>
+      <div class="row" data-v-24a785ba="">
+       <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_visa.fd08bf37cf.png"/>
+       <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_mc.51fc36230c.png"/>
+       <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_gtbank.a868bb38f2.png"/>
+      </div>
+     </div>
+    </div>
+    <!-- -->
+   </div>
+   <p data-cms-key="wap_18_age_tip" data-cms-page="main_footer" data-v-7ca7d3b0="">
+    Age 18 and above only. Play Responsibly. Betting is addictive and can be psychologically harmful. | SportyBet Ghana is licensed by the Gaming Commission of Ghana.
+   </p>
+   <!-- -->
+  </div>
+  <div class="hr" data-v-7ca7d3b0="">
+  </div>
+  <div class="t_c-about_us" data-v-7ca7d3b0="">
+   <h5 class="underline" data-v-7ca7d3b0="">
+    Terms &amp; Conditions
+   </h5>
+   <h5 class="divider" data-v-7ca7d3b0="">
+    |
+   </h5>
+   <h5 class="underline" data-v-7ca7d3b0="">
+    About Us
+   </h5>
+  </div>
+  <div class="btn" data-v-7ca7d3b0="">
+   <button data-cms-key="back_to_top" data-cms-page="main_footer" data-op="footer_back-to-top" data-v-7ca7d3b0="">
+    Back to Top
+   </button>
+  </div>
+ </footer>
+ <div class="m-bottom-nav">
+  <!-- -->
+  <div class="betslip-float-wrapper real-theme" data-op="betslip-icon">
+   <div class="bg">
+   </div>
+   <div class="count-wrapper">
+    <span class="count" data-op="bet-slip-count">
+     0
+    </span>
+   </div>
+   <div class="betslip" data-cms-key="betslip" data-cms-page="wap_main_bottom_nav">
+    BETSLIP
+   </div>
+  </div>
+  <!-- -->
+ </div>
+</div>
+
+<div class="m-prematch-detail">
+ <div class="m-nav-secondary withHome" data-v-13470acb="">
+  <div class="m-nav-left" data-v-13470acb="">
+   <span class="m-icon m-icon--back" data-op="nav-sec-back" data-v-13470acb="">
+   </span>
+   <span class="title" data-op="nav-title" data-v-13470acb="">
+    Details
+   </span>
+  </div>
+  <div class="info-container" data-v-13470acb="">
+   <!-- -->
+   <div class="m-nav-right" data-v-13470acb="">
+    <div class="home-link" data-v-13470acb="">
+     <div class="home-icon" data-v-13470acb="">
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div>
+  <div class="m-event-title">
+   <!-- -->
+   <div class="m-event-league link">
+    Honduras - Liga Nacional. Clausura
+   </div>
+   <div class="m-event-title-team">
+    <div class="homeTeamName">
+     CD Vida La Ceiba
+    </div>
+    <div class="awayTeamName">
+     Lobos UPNFM
+    </div>
+   </div>
+   <div class="m-event-time-wrap">
+    <div class="m-event-time-left">
+     <span class="event-date">
+      <!-- -->
+      <!-- -->
+      <!-- -->
+      29/04 Saturday
+     </span>
+     <span class="event-time">
+      21:30
+     </span>
+     <!-- -->
+     <span class="event-gameid">
+      ID 31723
+     </span>
+    </div>
+   </div>
+   <!-- -->
+  </div>
+  <div style="position: relative;">
+   <!-- -->
+  </div>
+  <div class="m-tab-navs-wrap" data-v-c0b0b3a4="">
+   <ul class="m-tab-navs" data-cls="undefined" data-disable-sticky="false" data-new-z-index="1000" data-offset="0" data-v-c0b0b3a4="">
+    <li class="m-nav-item active" data-v-c0b0b3a4="">
+     <i class="m-icon m-icon-market" data-v-c0b0b3a4="">
+     </i>
+     <span class="m-text" data-v-c0b0b3a4="">
+      Markets
+     </span>
+    </li>
+    <li class="m-nav-item" data-v-c0b0b3a4="">
+     <i class="m-icon m-icon-stat" data-v-c0b0b3a4="">
+     </i>
+     <span class="m-text" data-v-c0b0b3a4="">
+      Stats
+     </span>
+    </li>
+    <li class="m-nav-item" data-v-c0b0b3a4="">
+     <i class="m-icon m-icon-comment" data-v-c0b0b3a4="">
+     </i>
+     <span class="m-text" data-v-c0b0b3a4="">
+      Comments
+     </span>
+    </li>
+   </ul>
+  </div>
+  <div class="m-sub-tab">
+   <div class="m-market-group pre-match event-detail">
+    <div class="m-snap-nav-wrap m-group" data-cls="undefined" data-disable-sticky="false" data-new-z-index="1000" data-offset="46" style="overflow: hidden;">
+     <ul class="m-snap-nav flex" style="transform: translate(0px, 0px) translateZ(0px); transition-duration: 350ms; transition-timing-function: cubic-bezier(0.1, 0.57, 0.1, 1); width: 1286.11px;">
+      <li class="m-sport-group-item m-snap-nav-item">
+       My Favorite
+      </li>
+      <li class="m-sport-group-item m-snap-nav-item active">
+       All
+      </li>
+      <li class="m-sport-group-item m-snap-nav-item">
+       Main
+      </li>
+      <li class="m-sport-group-item m-snap-nav-item">
+       Goals
+      </li>
+      <li class="m-sport-group-item m-snap-nav-item">
+       Half
+      </li>
+      <li class="m-sport-group-item m-snap-nav-item">
+       Bookings
+      </li>
+      <li class="m-sport-group-item m-snap-nav-item">
+       Corners
+      </li>
+      <li class="m-sport-group-item m-snap-nav-item">
+       Specials
+      </li>
+      <li class="m-sport-group-item m-snap-nav-item">
+       Player
+      </li>
+     </ul>
+     <i class="controls left-controls">
+     </i>
+     <i class="controls right-controls">
+     </i>
+    </div>
+    <div class="m-sport-market">
+     <div data-key="market-1" style="">
+      <div class="m-market m-detail-market-default" market-key="market-1" sportid="sr:sport:1">
+       <div class="m-market-title" data-v-15c4befb="">
+        <span class="dis-icon" data-v-15c4befb="">
+        </span>
+        <span class="text" data-v-15c4befb="">
+         1X2
+        </span>
+        <span class="m-icon-tips" data-v-15c4befb="">
+        </span>
+        <!-- -->
+        <span class="market-right-wrap" data-v-15c4befb="">
+         <span class="market-favor" data-v-15c4befb="">
+          <img data-v-15c4befb="" height="24px" src="//s.sporty.net/global/main/brand/sportybet/mobile/images/unfavor.be243d1110.svg" width="24px"/>
+         </span>
+        </span>
+       </div>
+       <div class="m-table market-content">
+        <div class="m-table-row">
+         <div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+          <em>
+           Home
+          </em>
+          <em>
+           2.15
+          </em>
+         </div>
+         <div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+          <em>
+           Draw
+          </em>
+          <em>
+           3.33
+          </em>
+         </div>
+         <div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+          <em>
+           Away
+          </em>
+          <em>
+           3.10
+          </em>
+         </div>
+        </div>
+       </div>
+       <!-- -->
+      </div>
+     </div>
+     <div data-key="market-18" style="min-height: 713px;">
+      <!-- -->
+     </div>
+     <div data-key="market-10" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-14" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-16" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-19" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-20" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-29" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-11" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-45" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-37" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-35" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-547" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-36" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-12" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-13" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-15" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-21" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-23" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-24" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-25" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-26" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-27" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-28" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-30" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-31" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-32" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-33" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-34" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-546" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-548" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-549" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-550" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-551" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-854" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-855" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-856" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-857" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-858" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-859" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-860" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-861" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-862" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-863" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-864" style="min-height: 44px;">
+      <!-- -->
+     </div>
+     <div data-key="market-865" style="min-height: 44px;">
+      <!-- -->
+     </div>
+    </div>
+    <div class="event-global-loading" style="display: none;">
+     <div class="loading-circle">
+     </div>
+     <div class="loading-text" data-cms-key="loading" data-cms-page="common_functions">
+      Loading
+     </div>
+    </div>
+   </div>
+  </div>
+  <!-- -->
+  <!-- -->
+ </div>
+ <!-- -->
+</div>
+
+<div class="m-nav-secondary withHome" data-v-13470acb="">
+ <div class="m-nav-left" data-v-13470acb="">
+  <span class="m-icon m-icon--back" data-op="nav-sec-back" data-v-13470acb="">
+  </span>
+  <span class="title" data-op="nav-title" data-v-13470acb="">
+   Details
+  </span>
+ </div>
+ <div class="info-container" data-v-13470acb="">
+  <!-- -->
+  <div class="m-nav-right" data-v-13470acb="">
+   <div class="home-link" data-v-13470acb="">
+    <div class="home-icon" data-v-13470acb="">
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
+
+<div class="m-nav-left" data-v-13470acb="">
+ <span class="m-icon m-icon--back" data-op="nav-sec-back" data-v-13470acb="">
+ </span>
+ <span class="title" data-op="nav-title" data-v-13470acb="">
+  Details
+ </span>
+</div>
+
+<div class="info-container" data-v-13470acb="">
+ <!-- -->
+ <div class="m-nav-right" data-v-13470acb="">
+  <div class="home-link" data-v-13470acb="">
+   <div class="home-icon" data-v-13470acb="">
+   </div>
+  </div>
+ </div>
+</div>
+
+<div class="m-nav-right" data-v-13470acb="">
+ <div class="home-link" data-v-13470acb="">
+  <div class="home-icon" data-v-13470acb="">
+  </div>
+ </div>
+</div>
+
+<div class="home-link" data-v-13470acb="">
+ <div class="home-icon" data-v-13470acb="">
+ </div>
+</div>
+
+<div class="home-icon" data-v-13470acb="">
+</div>
+
+<div>
+ <div class="m-event-title">
+  <!-- -->
+  <div class="m-event-league link">
+   Honduras - Liga Nacional. Clausura
+  </div>
+  <div class="m-event-title-team">
+   <div class="homeTeamName">
+    CD Vida La Ceiba
+   </div>
+   <div class="awayTeamName">
+    Lobos UPNFM
+   </div>
+  </div>
+  <div class="m-event-time-wrap">
+   <div class="m-event-time-left">
+    <span class="event-date">
+     <!-- -->
+     <!-- -->
+     <!-- -->
+     29/04 Saturday
+    </span>
+    <span class="event-time">
+     21:30
+    </span>
+    <!-- -->
+    <span class="event-gameid">
+     ID 31723
+    </span>
+   </div>
+  </div>
+  <!-- -->
+ </div>
+ <div style="position: relative;">
+  <!-- -->
+ </div>
+ <div class="m-tab-navs-wrap" data-v-c0b0b3a4="">
+  <ul class="m-tab-navs" data-cls="undefined" data-disable-sticky="false" data-new-z-index="1000" data-offset="0" data-v-c0b0b3a4="">
+   <li class="m-nav-item active" data-v-c0b0b3a4="">
+    <i class="m-icon m-icon-market" data-v-c0b0b3a4="">
+    </i>
+    <span class="m-text" data-v-c0b0b3a4="">
+     Markets
+    </span>
+   </li>
+   <li class="m-nav-item" data-v-c0b0b3a4="">
+    <i class="m-icon m-icon-stat" data-v-c0b0b3a4="">
+    </i>
+    <span class="m-text" data-v-c0b0b3a4="">
+     Stats
+    </span>
+   </li>
+   <li class="m-nav-item" data-v-c0b0b3a4="">
+    <i class="m-icon m-icon-comment" data-v-c0b0b3a4="">
+    </i>
+    <span class="m-text" data-v-c0b0b3a4="">
+     Comments
+    </span>
+   </li>
+  </ul>
+ </div>
+ <div class="m-sub-tab">
+  <div class="m-market-group pre-match event-detail">
+   <div class="m-snap-nav-wrap m-group" data-cls="undefined" data-disable-sticky="false" data-new-z-index="1000" data-offset="46" style="overflow: hidden;">
+    <ul class="m-snap-nav flex" style="transform: translate(0px, 0px) translateZ(0px); transition-duration: 350ms; transition-timing-function: cubic-bezier(0.1, 0.57, 0.1, 1); width: 1286.11px;">
+     <li class="m-sport-group-item m-snap-nav-item">
+      My Favorite
+     </li>
+     <li class="m-sport-group-item m-snap-nav-item active">
+      All
+     </li>
+     <li class="m-sport-group-item m-snap-nav-item">
+      Main
+     </li>
+     <li class="m-sport-group-item m-snap-nav-item">
+      Goals
+     </li>
+     <li class="m-sport-group-item m-snap-nav-item">
+      Half
+     </li>
+     <li class="m-sport-group-item m-snap-nav-item">
+      Bookings
+     </li>
+     <li class="m-sport-group-item m-snap-nav-item">
+      Corners
+     </li>
+     <li class="m-sport-group-item m-snap-nav-item">
+      Specials
+     </li>
+     <li class="m-sport-group-item m-snap-nav-item">
+      Player
+     </li>
+    </ul>
+    <i class="controls left-controls">
+    </i>
+    <i class="controls right-controls">
+    </i>
+   </div>
+   <div class="m-sport-market">
+    <div data-key="market-1" style="">
+     <div class="m-market m-detail-market-default" market-key="market-1" sportid="sr:sport:1">
+      <div class="m-market-title" data-v-15c4befb="">
+       <span class="dis-icon" data-v-15c4befb="">
+       </span>
+       <span class="text" data-v-15c4befb="">
+        1X2
+       </span>
+       <span class="m-icon-tips" data-v-15c4befb="">
+       </span>
+       <!-- -->
+       <span class="market-right-wrap" data-v-15c4befb="">
+        <span class="market-favor" data-v-15c4befb="">
+         <img data-v-15c4befb="" height="24px" src="//s.sporty.net/global/main/brand/sportybet/mobile/images/unfavor.be243d1110.svg" width="24px"/>
+        </span>
+       </span>
+      </div>
+      <div class="m-table market-content">
+       <div class="m-table-row">
+        <div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+         <em>
+          Home
+         </em>
+         <em>
+          2.15
+         </em>
+        </div>
+        <div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+         <em>
+          Draw
+         </em>
+         <em>
+          3.33
+         </em>
+        </div>
+        <div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+         <em>
+          Away
+         </em>
+         <em>
+          3.10
+         </em>
+        </div>
+       </div>
+      </div>
+      <!-- -->
+     </div>
+    </div>
+    <div data-key="market-18" style="min-height: 713px;">
+     <!-- -->
+    </div>
+    <div data-key="market-10" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-14" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-16" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-19" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-20" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-29" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-11" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-45" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-37" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-35" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-547" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-36" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-12" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-13" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-15" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-21" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-23" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-24" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-25" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-26" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-27" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-28" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-30" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-31" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-32" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-33" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-34" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-546" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-548" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-549" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-550" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-551" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-854" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-855" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-856" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-857" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-858" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-859" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-860" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-861" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-862" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-863" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-864" style="min-height: 44px;">
+     <!-- -->
+    </div>
+    <div data-key="market-865" style="min-height: 44px;">
+     <!-- -->
+    </div>
+   </div>
+   <div class="event-global-loading" style="display: none;">
+    <div class="loading-circle">
+    </div>
+    <div class="loading-text" data-cms-key="loading" data-cms-page="common_functions">
+     Loading
+    </div>
+   </div>
+  </div>
+ </div>
+ <!-- -->
+ <!-- -->
+</div>
+
+<div class="m-event-title">
+ <!-- -->
+ <div class="m-event-league link">
+  Honduras - Liga Nacional. Clausura
+ </div>
+ <div class="m-event-title-team">
+  <div class="homeTeamName">
+   CD Vida La Ceiba
+  </div>
+  <div class="awayTeamName">
+   Lobos UPNFM
+  </div>
+ </div>
+ <div class="m-event-time-wrap">
+  <div class="m-event-time-left">
+   <span class="event-date">
+    <!-- -->
+    <!-- -->
+    <!-- -->
+    29/04 Saturday
+   </span>
+   <span class="event-time">
+    21:30
+   </span>
+   <!-- -->
+   <span class="event-gameid">
+    ID 31723
+   </span>
+  </div>
+ </div>
+ <!-- -->
+</div>
+
+<div class="m-event-league link">
+ Honduras - Liga Nacional. Clausura
+</div>
+
+<div class="m-event-title-team">
+ <div class="homeTeamName">
+  CD Vida La Ceiba
+ </div>
+ <div class="awayTeamName">
+  Lobos UPNFM
+ </div>
+</div>
+
+<div class="homeTeamName">
+ CD Vida La Ceiba
+</div>
+
+<div class="awayTeamName">
+ Lobos UPNFM
+</div>
+
+<div class="m-event-time-wrap">
+ <div class="m-event-time-left">
+  <span class="event-date">
+   <!-- -->
+   <!-- -->
+   <!-- -->
+   29/04 Saturday
+  </span>
+  <span class="event-time">
+   21:30
+  </span>
+  <!-- -->
+  <span class="event-gameid">
+   ID 31723
+  </span>
+ </div>
+</div>
+
+<div class="m-event-time-left">
+ <span class="event-date">
+  <!-- -->
+  <!-- -->
+  <!-- -->
+  29/04 Saturday
+ </span>
+ <span class="event-time">
+  21:30
+ </span>
+ <!-- -->
+ <span class="event-gameid">
+  ID 31723
+ </span>
+</div>
+
+<div style="position: relative;">
+ <!-- -->
+</div>
+
+<div class="m-tab-navs-wrap" data-v-c0b0b3a4="">
+ <ul class="m-tab-navs" data-cls="undefined" data-disable-sticky="false" data-new-z-index="1000" data-offset="0" data-v-c0b0b3a4="">
+  <li class="m-nav-item active" data-v-c0b0b3a4="">
+   <i class="m-icon m-icon-market" data-v-c0b0b3a4="">
+   </i>
+   <span class="m-text" data-v-c0b0b3a4="">
+    Markets
+   </span>
+  </li>
+  <li class="m-nav-item" data-v-c0b0b3a4="">
+   <i class="m-icon m-icon-stat" data-v-c0b0b3a4="">
+   </i>
+   <span class="m-text" data-v-c0b0b3a4="">
+    Stats
+   </span>
+  </li>
+  <li class="m-nav-item" data-v-c0b0b3a4="">
+   <i class="m-icon m-icon-comment" data-v-c0b0b3a4="">
+   </i>
+   <span class="m-text" data-v-c0b0b3a4="">
+    Comments
+   </span>
+  </li>
+ </ul>
+</div>
+
+<div class="m-sub-tab">
+ <div class="m-market-group pre-match event-detail">
+  <div class="m-snap-nav-wrap m-group" data-cls="undefined" data-disable-sticky="false" data-new-z-index="1000" data-offset="46" style="overflow: hidden;">
+   <ul class="m-snap-nav flex" style="transform: translate(0px, 0px) translateZ(0px); transition-duration: 350ms; transition-timing-function: cubic-bezier(0.1, 0.57, 0.1, 1); width: 1286.11px;">
+    <li class="m-sport-group-item m-snap-nav-item">
+     My Favorite
+    </li>
+    <li class="m-sport-group-item m-snap-nav-item active">
+     All
+    </li>
+    <li class="m-sport-group-item m-snap-nav-item">
+     Main
+    </li>
+    <li class="m-sport-group-item m-snap-nav-item">
+     Goals
+    </li>
+    <li class="m-sport-group-item m-snap-nav-item">
+     Half
+    </li>
+    <li class="m-sport-group-item m-snap-nav-item">
+     Bookings
+    </li>
+    <li class="m-sport-group-item m-snap-nav-item">
+     Corners
+    </li>
+    <li class="m-sport-group-item m-snap-nav-item">
+     Specials
+    </li>
+    <li class="m-sport-group-item m-snap-nav-item">
+     Player
+    </li>
+   </ul>
+   <i class="controls left-controls">
+   </i>
+   <i class="controls right-controls">
+   </i>
+  </div>
+  <div class="m-sport-market">
+   <div data-key="market-1" style="">
+    <div class="m-market m-detail-market-default" market-key="market-1" sportid="sr:sport:1">
+     <div class="m-market-title" data-v-15c4befb="">
+      <span class="dis-icon" data-v-15c4befb="">
+      </span>
+      <span class="text" data-v-15c4befb="">
+       1X2
+      </span>
+      <span class="m-icon-tips" data-v-15c4befb="">
+      </span>
+      <!-- -->
+      <span class="market-right-wrap" data-v-15c4befb="">
+       <span class="market-favor" data-v-15c4befb="">
+        <img data-v-15c4befb="" height="24px" src="//s.sporty.net/global/main/brand/sportybet/mobile/images/unfavor.be243d1110.svg" width="24px"/>
+       </span>
+      </span>
+     </div>
+     <div class="m-table market-content">
+      <div class="m-table-row">
+       <div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+        <em>
+         Home
+        </em>
+        <em>
+         2.15
+        </em>
+       </div>
+       <div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+        <em>
+         Draw
+        </em>
+        <em>
+         3.33
+        </em>
+       </div>
+       <div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+        <em>
+         Away
+        </em>
+        <em>
+         3.10
+        </em>
+       </div>
+      </div>
+     </div>
+     <!-- -->
+    </div>
+   </div>
+   <div data-key="market-18" style="min-height: 713px;">
+    <!-- -->
+   </div>
+   <div data-key="market-10" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-14" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-16" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-19" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-20" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-29" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-11" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-45" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-37" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-35" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-547" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-36" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-12" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-13" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-15" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-21" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-23" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-24" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-25" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-26" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-27" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-28" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-30" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-31" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-32" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-33" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-34" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-546" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-548" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-549" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-550" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-551" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-854" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-855" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-856" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-857" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-858" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-859" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-860" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-861" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-862" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-863" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-864" style="min-height: 44px;">
+    <!-- -->
+   </div>
+   <div data-key="market-865" style="min-height: 44px;">
+    <!-- -->
+   </div>
+  </div>
+  <div class="event-global-loading" style="display: none;">
+   <div class="loading-circle">
+   </div>
+   <div class="loading-text" data-cms-key="loading" data-cms-page="common_functions">
+    Loading
+   </div>
+  </div>
+ </div>
+</div>
+
+<div class="m-market-group pre-match event-detail">
+ <div class="m-snap-nav-wrap m-group" data-cls="undefined" data-disable-sticky="false" data-new-z-index="1000" data-offset="46" style="overflow: hidden;">
+  <ul class="m-snap-nav flex" style="transform: translate(0px, 0px) translateZ(0px); transition-duration: 350ms; transition-timing-function: cubic-bezier(0.1, 0.57, 0.1, 1); width: 1286.11px;">
+   <li class="m-sport-group-item m-snap-nav-item">
+    My Favorite
+   </li>
+   <li class="m-sport-group-item m-snap-nav-item active">
+    All
+   </li>
+   <li class="m-sport-group-item m-snap-nav-item">
+    Main
+   </li>
+   <li class="m-sport-group-item m-snap-nav-item">
+    Goals
+   </li>
+   <li class="m-sport-group-item m-snap-nav-item">
+    Half
+   </li>
+   <li class="m-sport-group-item m-snap-nav-item">
+    Bookings
+   </li>
+   <li class="m-sport-group-item m-snap-nav-item">
+    Corners
+   </li>
+   <li class="m-sport-group-item m-snap-nav-item">
+    Specials
+   </li>
+   <li class="m-sport-group-item m-snap-nav-item">
+    Player
+   </li>
+  </ul>
+  <i class="controls left-controls">
+  </i>
+  <i class="controls right-controls">
+  </i>
+ </div>
+ <div class="m-sport-market">
+  <div data-key="market-1" style="">
+   <div class="m-market m-detail-market-default" market-key="market-1" sportid="sr:sport:1">
+    <div class="m-market-title" data-v-15c4befb="">
+     <span class="dis-icon" data-v-15c4befb="">
+     </span>
+     <span class="text" data-v-15c4befb="">
+      1X2
+     </span>
+     <span class="m-icon-tips" data-v-15c4befb="">
+     </span>
+     <!-- -->
+     <span class="market-right-wrap" data-v-15c4befb="">
+      <span class="market-favor" data-v-15c4befb="">
+       <img data-v-15c4befb="" height="24px" src="//s.sporty.net/global/main/brand/sportybet/mobile/images/unfavor.be243d1110.svg" width="24px"/>
+      </span>
+     </span>
+    </div>
+    <div class="m-table market-content">
+     <div class="m-table-row">
+      <div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+       <em>
+        Home
+       </em>
+       <em>
+        2.15
+       </em>
+      </div>
+      <div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+       <em>
+        Draw
+       </em>
+       <em>
+        3.33
+       </em>
+      </div>
+      <div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+       <em>
+        Away
+       </em>
+       <em>
+        3.10
+       </em>
+      </div>
+     </div>
+    </div>
+    <!-- -->
+   </div>
+  </div>
+  <div data-key="market-18" style="min-height: 713px;">
+   <!-- -->
+  </div>
+  <div data-key="market-10" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-14" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-16" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-19" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-20" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-29" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-11" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-45" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-37" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-35" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-547" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-36" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-12" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-13" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-15" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-21" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-23" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-24" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-25" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-26" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-27" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-28" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-30" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-31" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-32" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-33" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-34" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-546" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-548" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-549" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-550" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-551" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-854" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-855" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-856" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-857" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-858" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-859" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-860" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-861" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-862" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-863" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-864" style="min-height: 44px;">
+   <!-- -->
+  </div>
+  <div data-key="market-865" style="min-height: 44px;">
+   <!-- -->
+  </div>
+ </div>
+ <div class="event-global-loading" style="display: none;">
+  <div class="loading-circle">
+  </div>
+  <div class="loading-text" data-cms-key="loading" data-cms-page="common_functions">
+   Loading
+  </div>
+ </div>
+</div>
+
+<div class="m-snap-nav-wrap m-group" data-cls="undefined" data-disable-sticky="false" data-new-z-index="1000" data-offset="46" style="overflow: hidden;">
+ <ul class="m-snap-nav flex" style="transform: translate(0px, 0px) translateZ(0px); transition-duration: 350ms; transition-timing-function: cubic-bezier(0.1, 0.57, 0.1, 1); width: 1286.11px;">
+  <li class="m-sport-group-item m-snap-nav-item">
+   My Favorite
+  </li>
+  <li class="m-sport-group-item m-snap-nav-item active">
+   All
+  </li>
+  <li class="m-sport-group-item m-snap-nav-item">
+   Main
+  </li>
+  <li class="m-sport-group-item m-snap-nav-item">
+   Goals
+  </li>
+  <li class="m-sport-group-item m-snap-nav-item">
+   Half
+  </li>
+  <li class="m-sport-group-item m-snap-nav-item">
+   Bookings
+  </li>
+  <li class="m-sport-group-item m-snap-nav-item">
+   Corners
+  </li>
+  <li class="m-sport-group-item m-snap-nav-item">
+   Specials
+  </li>
+  <li class="m-sport-group-item m-snap-nav-item">
+   Player
+  </li>
+ </ul>
+ <i class="controls left-controls">
+ </i>
+ <i class="controls right-controls">
+ </i>
+</div>
+
+<div class="m-sport-market">
+ <div data-key="market-1" style="">
+  <div class="m-market m-detail-market-default" market-key="market-1" sportid="sr:sport:1">
+   <div class="m-market-title" data-v-15c4befb="">
+    <span class="dis-icon" data-v-15c4befb="">
+    </span>
+    <span class="text" data-v-15c4befb="">
+     1X2
+    </span>
+    <span class="m-icon-tips" data-v-15c4befb="">
+    </span>
+    <!-- -->
+    <span class="market-right-wrap" data-v-15c4befb="">
+     <span class="market-favor" data-v-15c4befb="">
+      <img data-v-15c4befb="" height="24px" src="//s.sporty.net/global/main/brand/sportybet/mobile/images/unfavor.be243d1110.svg" width="24px"/>
+     </span>
+    </span>
+   </div>
+   <div class="m-table market-content">
+    <div class="m-table-row">
+     <div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+      <em>
+       Home
+      </em>
+      <em>
+       2.15
+      </em>
+     </div>
+     <div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+      <em>
+       Draw
+      </em>
+      <em>
+       3.33
+      </em>
+     </div>
+     <div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+      <em>
+       Away
+      </em>
+      <em>
+       3.10
+      </em>
+     </div>
+    </div>
+   </div>
+   <!-- -->
+  </div>
+ </div>
+ <div data-key="market-18" style="min-height: 713px;">
+  <!-- -->
+ </div>
+ <div data-key="market-10" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-14" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-16" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-19" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-20" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-29" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-11" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-45" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-37" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-35" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-547" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-36" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-12" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-13" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-15" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-21" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-23" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-24" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-25" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-26" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-27" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-28" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-30" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-31" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-32" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-33" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-34" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-546" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-548" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-549" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-550" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-551" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-854" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-855" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-856" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-857" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-858" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-859" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-860" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-861" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-862" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-863" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-864" style="min-height: 44px;">
+  <!-- -->
+ </div>
+ <div data-key="market-865" style="min-height: 44px;">
+  <!-- -->
+ </div>
+</div>
+
+<div data-key="market-1" style="">
+ <div class="m-market m-detail-market-default" market-key="market-1" sportid="sr:sport:1">
+  <div class="m-market-title" data-v-15c4befb="">
+   <span class="dis-icon" data-v-15c4befb="">
+   </span>
+   <span class="text" data-v-15c4befb="">
+    1X2
+   </span>
+   <span class="m-icon-tips" data-v-15c4befb="">
+   </span>
+   <!-- -->
+   <span class="market-right-wrap" data-v-15c4befb="">
+    <span class="market-favor" data-v-15c4befb="">
+     <img data-v-15c4befb="" height="24px" src="//s.sporty.net/global/main/brand/sportybet/mobile/images/unfavor.be243d1110.svg" width="24px"/>
+    </span>
+   </span>
+  </div>
+  <div class="m-table market-content">
+   <div class="m-table-row">
+    <div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+     <em>
+      Home
+     </em>
+     <em>
+      2.15
+     </em>
+    </div>
+    <div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+     <em>
+      Draw
+     </em>
+     <em>
+      3.33
+     </em>
+    </div>
+    <div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+     <em>
+      Away
+     </em>
+     <em>
+      3.10
+     </em>
+    </div>
+   </div>
+  </div>
+  <!-- -->
+ </div>
+</div>
+
+<div class="m-market m-detail-market-default" market-key="market-1" sportid="sr:sport:1">
+ <div class="m-market-title" data-v-15c4befb="">
+  <span class="dis-icon" data-v-15c4befb="">
+  </span>
+  <span class="text" data-v-15c4befb="">
+   1X2
+  </span>
+  <span class="m-icon-tips" data-v-15c4befb="">
+  </span>
+  <!-- -->
+  <span class="market-right-wrap" data-v-15c4befb="">
+   <span class="market-favor" data-v-15c4befb="">
+    <img data-v-15c4befb="" height="24px" src="//s.sporty.net/global/main/brand/sportybet/mobile/images/unfavor.be243d1110.svg" width="24px"/>
+   </span>
+  </span>
+ </div>
+ <div class="m-table market-content">
+  <div class="m-table-row">
+   <div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+    <em>
+     Home
+    </em>
+    <em>
+     2.15
+    </em>
+   </div>
+   <div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+    <em>
+     Draw
+    </em>
+    <em>
+     3.33
+    </em>
+   </div>
+   <div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+    <em>
+     Away
+    </em>
+    <em>
+     3.10
+    </em>
+   </div>
+  </div>
+ </div>
+ <!-- -->
+</div>
+
+<div class="m-market-title" data-v-15c4befb="">
+ <span class="dis-icon" data-v-15c4befb="">
+ </span>
+ <span class="text" data-v-15c4befb="">
+  1X2
+ </span>
+ <span class="m-icon-tips" data-v-15c4befb="">
+ </span>
+ <!-- -->
+ <span class="market-right-wrap" data-v-15c4befb="">
+  <span class="market-favor" data-v-15c4befb="">
+   <img data-v-15c4befb="" height="24px" src="//s.sporty.net/global/main/brand/sportybet/mobile/images/unfavor.be243d1110.svg" width="24px"/>
+  </span>
+ </span>
+</div>
+
+<div class="m-table market-content">
+ <div class="m-table-row">
+  <div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+   <em>
+    Home
+   </em>
+   <em>
+    2.15
+   </em>
+  </div>
+  <div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+   <em>
+    Draw
+   </em>
+   <em>
+    3.33
+   </em>
+  </div>
+  <div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+   <em>
+    Away
+   </em>
+   <em>
+    3.10
+   </em>
+  </div>
+ </div>
+</div>
+
+<div class="m-table-row">
+ <div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+  <em>
+   Home
+  </em>
+  <em>
+   2.15
+  </em>
+ </div>
+ <div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+  <em>
+   Draw
+  </em>
+  <em>
+   3.33
+  </em>
+ </div>
+ <div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+  <em>
+   Away
+  </em>
+  <em>
+   3.10
+  </em>
+ </div>
+</div>
+
+<div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+ <em>
+  Home
+ </em>
+ <em>
+  2.15
+ </em>
+</div>
+
+<div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+ <em>
+  Draw
+ </em>
+ <em>
+  3.33
+ </em>
+</div>
+
+<div class="m-table-cell m-outcome m-detail-outcome-default m-outcome-three m-outcome-odds-des">
+ <em>
+  Away
+ </em>
+ <em>
+  3.10
+ </em>
+</div>
+
+<div data-key="market-18" style="min-height: 713px;">
+ <!-- -->
+</div>
+
+<div data-key="market-10" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-14" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-16" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-19" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-20" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-29" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-11" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-45" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-37" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-35" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-547" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-36" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-12" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-13" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-15" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-21" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-23" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-24" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-25" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-26" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-27" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-28" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-30" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-31" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-32" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-33" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-34" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-546" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-548" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-549" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-550" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-551" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-854" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-855" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-856" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-857" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-858" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-859" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-860" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-861" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-862" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-863" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-864" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div data-key="market-865" style="min-height: 44px;">
+ <!-- -->
+</div>
+
+<div class="event-global-loading" style="display: none;">
+ <div class="loading-circle">
+ </div>
+ <div class="loading-text" data-cms-key="loading" data-cms-page="common_functions">
+  Loading
+ </div>
+</div>
+
+<div class="loading-circle">
+</div>
+
+<div class="loading-text" data-cms-key="loading" data-cms-page="common_functions">
+ Loading
+</div>
+
+<div class="copyright-wrap" data-v-7ca7d3b0="">
+ <div class="icons" data-v-7ca7d3b0="">
+  <img data-v-7ca7d3b0="" src="//s.sporty.net/global/main/brand/sportybet/mobile/images/license.89d68648de.svg"/>
+  <img data-v-7ca7d3b0="" src="//s.sporty.net/global/main/brand/sportybet/mobile/images/icon18.996cdffd94.svg"/>
+ </div>
+ <div class="copyright" data-cms-key="year_copy_right" data-cms-page="main_footer" data-v-7ca7d3b0="">
+  <p>
+   © 2023 SportyBet. All rights reserved.
+  </p>
+ </div>
+</div>
+
+<div class="icons" data-v-7ca7d3b0="">
+ <img data-v-7ca7d3b0="" src="//s.sporty.net/global/main/brand/sportybet/mobile/images/license.89d68648de.svg"/>
+ <img data-v-7ca7d3b0="" src="//s.sporty.net/global/main/brand/sportybet/mobile/images/icon18.996cdffd94.svg"/>
+</div>
+
+<div class="copyright" data-cms-key="year_copy_right" data-cms-page="main_footer" data-v-7ca7d3b0="">
+ <p>
+  © 2023 SportyBet. All rights reserved.
+ </p>
+</div>
+
+<div class="partnership-wrap text-center" data-v-7ca7d3b0="">
+ <img data-cms-key="wap_partnership" data-cms-page="main_footer" data-v-7ca7d3b0="" src="https://s.sporty.net/cms/light_a81d61f961.png"/>
+</div>
+
+<div class="paybills-wrap" data-v-7ca7d3b0="">
+ <div class="paybills" data-v-7ca7d3b0="">
+  <h5 data-cms-key="paybill_title" data-cms-page="main_footer" data-v-7ca7d3b0="">
+   Paybill:
+  </h5>
+  <h4 class="value" data-cms-key="paybill_value" data-cms-page="main_footer" data-v-7ca7d3b0="">
+   *711*222#
+  </h4>
+ </div>
+</div>
+
+<div class="paybills" data-v-7ca7d3b0="">
+ <h5 data-cms-key="paybill_title" data-cms-page="main_footer" data-v-7ca7d3b0="">
+  Paybill:
+ </h5>
+ <h4 class="value" data-cms-key="paybill_value" data-cms-page="main_footer" data-v-7ca7d3b0="">
+  *711*222#
+ </h4>
+</div>
+
+<div class="payment-methods" data-v-7ca7d3b0="">
+ <h5 data-cms-key="payment_methods" data-cms-page="main_footer" data-v-7ca7d3b0="">
+  Payment methods
+ </h5>
+ <div class="slider-wrap" data-v-24a785ba="" data-v-7ca7d3b0="">
+  <div class="slider-window" data-v-24a785ba="">
+   <div class="sliders" data-v-24a785ba="" style="transform: translateX(0%);">
+    <div class="row" data-v-24a785ba="">
+     <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_tigo.6983114036.png"/>
+     <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_mtn.ae94024ba1.png"/>
+     <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_airtel.3be97f5903.png"/>
+     <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_vodafone.78b5fed714.png"/>
+    </div>
+    <div class="row" data-v-24a785ba="">
+     <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_visa.fd08bf37cf.png"/>
+     <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_mc.51fc36230c.png"/>
+     <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_gtbank.a868bb38f2.png"/>
+    </div>
+   </div>
+   <div class="sliders" data-v-24a785ba="" style="transform: translateX(0%);">
+    <div class="row" data-v-24a785ba="">
+     <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_tigo.6983114036.png"/>
+     <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_mtn.ae94024ba1.png"/>
+     <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_airtel.3be97f5903.png"/>
+     <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_vodafone.78b5fed714.png"/>
+    </div>
+    <div class="row" data-v-24a785ba="">
+     <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_visa.fd08bf37cf.png"/>
+     <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_mc.51fc36230c.png"/>
+     <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_gtbank.a868bb38f2.png"/>
+    </div>
+   </div>
+  </div>
+  <!-- -->
+ </div>
+ <p data-cms-key="wap_18_age_tip" data-cms-page="main_footer" data-v-7ca7d3b0="">
+  Age 18 and above only. Play Responsibly. Betting is addictive and can be psychologically harmful. | SportyBet Ghana is licensed by the Gaming Commission of Ghana.
+ </p>
+ <!-- -->
+</div>
+
+<div class="slider-wrap" data-v-24a785ba="" data-v-7ca7d3b0="">
+ <div class="slider-window" data-v-24a785ba="">
+  <div class="sliders" data-v-24a785ba="" style="transform: translateX(0%);">
+   <div class="row" data-v-24a785ba="">
+    <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_tigo.6983114036.png"/>
+    <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_mtn.ae94024ba1.png"/>
+    <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_airtel.3be97f5903.png"/>
+    <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_vodafone.78b5fed714.png"/>
+   </div>
+   <div class="row" data-v-24a785ba="">
+    <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_visa.fd08bf37cf.png"/>
+    <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_mc.51fc36230c.png"/>
+    <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_gtbank.a868bb38f2.png"/>
+   </div>
+  </div>
+  <div class="sliders" data-v-24a785ba="" style="transform: translateX(0%);">
+   <div class="row" data-v-24a785ba="">
+    <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_tigo.6983114036.png"/>
+    <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_mtn.ae94024ba1.png"/>
+    <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_airtel.3be97f5903.png"/>
+    <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_vodafone.78b5fed714.png"/>
+   </div>
+   <div class="row" data-v-24a785ba="">
+    <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_visa.fd08bf37cf.png"/>
+    <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_mc.51fc36230c.png"/>
+    <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_gtbank.a868bb38f2.png"/>
+   </div>
+  </div>
+ </div>
+ <!-- -->
+</div>
+
+<div class="slider-window" data-v-24a785ba="">
+ <div class="sliders" data-v-24a785ba="" style="transform: translateX(0%);">
+  <div class="row" data-v-24a785ba="">
+   <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_tigo.6983114036.png"/>
+   <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_mtn.ae94024ba1.png"/>
+   <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_airtel.3be97f5903.png"/>
+   <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_vodafone.78b5fed714.png"/>
+  </div>
+  <div class="row" data-v-24a785ba="">
+   <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_visa.fd08bf37cf.png"/>
+   <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_mc.51fc36230c.png"/>
+   <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_gtbank.a868bb38f2.png"/>
+  </div>
+ </div>
+ <div class="sliders" data-v-24a785ba="" style="transform: translateX(0%);">
+  <div class="row" data-v-24a785ba="">
+   <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_tigo.6983114036.png"/>
+   <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_mtn.ae94024ba1.png"/>
+   <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_airtel.3be97f5903.png"/>
+   <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_vodafone.78b5fed714.png"/>
+  </div>
+  <div class="row" data-v-24a785ba="">
+   <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_visa.fd08bf37cf.png"/>
+   <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_mc.51fc36230c.png"/>
+   <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_gtbank.a868bb38f2.png"/>
+  </div>
+ </div>
+</div>
+
+<div class="sliders" data-v-24a785ba="" style="transform: translateX(0%);">
+ <div class="row" data-v-24a785ba="">
+  <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_tigo.6983114036.png"/>
+  <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_mtn.ae94024ba1.png"/>
+  <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_airtel.3be97f5903.png"/>
+  <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_vodafone.78b5fed714.png"/>
+ </div>
+ <div class="row" data-v-24a785ba="">
+  <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_visa.fd08bf37cf.png"/>
+  <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_mc.51fc36230c.png"/>
+  <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_gtbank.a868bb38f2.png"/>
+ </div>
+</div>
+
+<div class="row" data-v-24a785ba="">
+ <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_tigo.6983114036.png"/>
+ <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_mtn.ae94024ba1.png"/>
+ <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_airtel.3be97f5903.png"/>
+ <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_vodafone.78b5fed714.png"/>
+</div>
+
+<div class="row" data-v-24a785ba="">
+ <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_visa.fd08bf37cf.png"/>
+ <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_mc.51fc36230c.png"/>
+ <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_gtbank.a868bb38f2.png"/>
+</div>
+
+<div class="sliders" data-v-24a785ba="" style="transform: translateX(0%);">
+ <div class="row" data-v-24a785ba="">
+  <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_tigo.6983114036.png"/>
+  <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_mtn.ae94024ba1.png"/>
+  <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_airtel.3be97f5903.png"/>
+  <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_vodafone.78b5fed714.png"/>
+ </div>
+ <div class="row" data-v-24a785ba="">
+  <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_visa.fd08bf37cf.png"/>
+  <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_mc.51fc36230c.png"/>
+  <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_gtbank.a868bb38f2.png"/>
+ </div>
+</div>
+
+<div class="row" data-v-24a785ba="">
+ <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_tigo.6983114036.png"/>
+ <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_mtn.ae94024ba1.png"/>
+ <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_airtel.3be97f5903.png"/>
+ <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_vodafone.78b5fed714.png"/>
+</div>
+
+<div class="row" data-v-24a785ba="">
+ <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_visa.fd08bf37cf.png"/>
+ <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_mc.51fc36230c.png"/>
+ <img data-v-24a785ba="" src="//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_gtbank.a868bb38f2.png"/>
+</div>
+
+<div class="hr" data-v-7ca7d3b0="">
+</div>
+
+<div class="t_c-about_us" data-v-7ca7d3b0="">
+ <h5 class="underline" data-v-7ca7d3b0="">
+  Terms &amp; Conditions
+ </h5>
+ <h5 class="divider" data-v-7ca7d3b0="">
+  |
+ </h5>
+ <h5 class="underline" data-v-7ca7d3b0="">
+  About Us
+ </h5>
+</div>
+
+<div class="btn" data-v-7ca7d3b0="">
+ <button data-cms-key="back_to_top" data-cms-page="main_footer" data-op="footer_back-to-top" data-v-7ca7d3b0="">
+  Back to Top
+ </button>
+</div>
+
+<div class="m-bottom-nav">
+ <!-- -->
+ <div class="betslip-float-wrapper real-theme" data-op="betslip-icon">
+  <div class="bg">
+  </div>
+  <div class="count-wrapper">
+   <span class="count" data-op="bet-slip-count">
+    0
+   </span>
+  </div>
+  <div class="betslip" data-cms-key="betslip" data-cms-page="wap_main_bottom_nav">
+   BETSLIP
+  </div>
+ </div>
+ <!-- -->
+</div>
+
+<div class="betslip-float-wrapper real-theme" data-op="betslip-icon">
+ <div class="bg">
+ </div>
+ <div class="count-wrapper">
+  <span class="count" data-op="bet-slip-count">
+   0
+  </span>
+ </div>
+ <div class="betslip" data-cms-key="betslip" data-cms-page="wap_main_bottom_nav">
+  BETSLIP
+ </div>
+</div>
+
+<div class="bg">
+</div>
+
+<div class="count-wrapper">
+ <span class="count" data-op="bet-slip-count">
+  0
+ </span>
+</div>
+
+<div class="betslip" data-cms-key="betslip" data-cms-page="wap_main_bottom_nav">
+ BETSLIP
+</div>
+
+<div class="m-main-right" style="display: none;">
+ <div class="betslip-mode-real" data-betslip-mode="real" data-op="betslip-container" id="betslip-container">
+  <div class="m-betslips m-betslips-off" style="position: absolute;">
+   <div class="m-betslip-header real-theme" data-v-71c29cfa="">
+    <div class="head-container" data-v-71c29cfa="">
+     <div class="wrapper wrapper-gap real-theme is-empty-selection" data-v-71c29cfa="">
+      <div class="wrapper-item bet-info-panel" data-v-71c29cfa="">
+       <div class="bet-count-wrapper bet-count" data-op="betslip-multi-count" data-v-57c32b1e="" data-v-71c29cfa="">
+        <span class="is-zero real-theme" data-v-57c32b1e="">
+         0
+        </span>
+       </div>
+       <div class="mode-switch-button" data-v-71c29cfa="">
+        <div class="switch-box">
+         <div class="shadow-text right-side show-highlight" data-op="switch-box-right">
+          SIM
+         </div>
+         <div class="inside-btn left-side inactive" data-op="switch-box-left">
+          REAL
+         </div>
+         <div class="fake-content fake-content-first">
+          SIM
+         </div>
+         <div class="fake-content">
+          REAL
+         </div>
+        </div>
+       </div>
+       <div class="mr-auto red-dot-block" data-v-71c29cfa="">
+        <!-- -->
+       </div>
+      </div>
+      <div class="wrapper-item middle close" data-v-71c29cfa="">
+       <div class="icon-font-base" data-v-71c29cfa="" data-v-fe6418fe="" style="font-size: 20px;">
+        
+       </div>
+      </div>
+      <div class="wrapper-item user-assets-panel" data-v-71c29cfa="">
+       <div class="not-login ml-auto" data-v-71c29cfa="">
+        <span data-cms-key="register" data-cms-page="common_functions" data-v-71c29cfa="">
+         Register
+        </span>
+        <span data-cms-key="log_in" data-cms-page="common_functions" data-v-71c29cfa="">
+         Login
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class="wrapper separate-part" data-v-71c29cfa="">
+      <!-- -->
+      <!-- -->
+     </div>
+    </div>
+   </div>
+   <div class="m-bet-head">
+    <div class="m-snap-nav-wrap m-list-bet-type" style="display: none; overflow: hidden;">
+     <ul class="m-snap-nav flex" style="transform: translate(0px, 0px) translateZ(0px); transition-duration: 350ms; transition-timing-function: cubic-bezier(0.1, 0.57, 0.1, 1);">
+      <li class="m-list-bet-type-item m-snap-nav-item active" data-op="betslip-multi-tag-single">
+       <span data-cms-key="singles" data-cms-page="component_betslip">
+        Single
+       </span>
+       <!-- -->
+      </li>
+      <li class="flex flex-center m-list-bet-type-item m-snap-nav-item m-snap-nav-item--disabled" data-op="betslip-multi-tag-multi">
+       <span data-cms-key="multiple" data-cms-page="component_betslip">
+        Multiple
+       </span>
+      </li>
+      <li class="m-list-bet-type-item m-snap-nav-item m-snap-nav-item--disabled" data-op="betslip-multi-tag-system">
+       <span data-cms-key="system" data-cms-page="component_betslip">
+        System
+       </span>
+      </li>
+     </ul>
+     <i class="controls left-controls">
+     </i>
+     <i class="controls right-controls">
+     </i>
+    </div>
+    <div class="betslip-notification" data-v-3db23bd6="">
+     <!-- -->
+     <!-- -->
+     <!-- -->
+    </div>
+    <!-- -->
+   </div>
+   <div class="m-default" data-v-74657e65="">
+    <p class="m-default-info" data-v-74657e65="">
+     <span data-cms-key="please_insert_booking_code" data-cms-page="component_betslip" data-v-74657e65="">
+      Please insert booking code
+     </span>
+     <span class="m-dialog-tip" data-v-74657e65="">
+     </span>
+    </p>
+    <div class="m-code-wrapper" data-v-74657e65="">
+     <div class="country-main af-select selected" data-v-74657e65="" tabindex="0">
+      <div class="af-select-title" data-op="label-odds-option">
+       <span class="af-select-input">
+        Ghana
+        <!-- -->
+       </span>
+       <span class="af-select-icon-item">
+        <em class="icon">
+         ^
+        </em>
+       </span>
+      </div>
+      <div class="af-select-list animate-core" data-op="odds-option-menu" style="display: none; width: 0px;">
+       <span class="af-select-item active af-select-item" data-id="0" data-op="odds-option-menu-item">
+        Ghana
+       </span>
+       <span class="af-select-item af-select-item" data-id="1" data-op="odds-option-menu-item">
+        Nigeria
+       </span>
+       <span class="af-select-item af-select-item" data-id="2" data-op="odds-option-menu-item">
+        Tanzania
+       </span>
+       <span class="af-select-item af-select-item" data-id="3" data-op="odds-option-menu-item">
+        Uganda
+       </span>
+       <span class="af-select-item af-select-item" data-id="4" data-op="odds-option-menu-item">
+        Zambia
+       </span>
+       <span class="af-select-item af-select-item" data-id="5" data-op="odds-option-menu-item">
+        International
+       </span>
+       <span class="af-select-item af-select-item" data-id="6" data-op="odds-option-menu-item">
+        Brazil
+       </span>
+       <span class="af-select-item af-select-item" data-id="7" data-op="odds-option-menu-item">
+        Kenya
+       </span>
+      </div>
+     </div>
+     <div class="m-default-code m-input-wap-wrapper" data-v-74657e65="">
+      <!-- -->
+      <i class="m-input-wap-icon m-input-wap-icon--clickable m-icon-delete">
+      </i>
+      <input class="m-input-wap fs-exclude" name="" placeholder="Booking Code" type="input"/>
+      <!-- -->
+     </div>
+    </div>
+    <!-- -->
+    <div class="share-code-btn share-code-btn--disabled" data-v-74657e65="">
+     <span data-v-74657e65="">
+      Load
+     </span>
+    </div>
+    <div class="divider" data-v-74657e65="">
+     <div class="divider__mid" data-v-74657e65="">
+      or
+     </div>
+    </div>
+    <div class="feature-entry" data-v-74657e65="">
+     <!-- -->
+     <div class="feature-entry__btn" data-op="betslip-multimaker-entry" data-v-74657e65="">
+      <span data-v-74657e65="">
+       <img data-v-74657e65="" src="//s.sporty.net/global/main/modules/main/mobile/multiMaker/image/mm_main_icon.965251cc2f.svg"/>
+       <span data-cms-key="try_multi_maker" data-cms-page="component_betslip" data-v-74657e65="">
+        Try Multi Maker
+       </span>
+      </span>
+     </div>
+    </div>
+   </div>
+   <!-- -->
+  </div>
+  <!-- -->
+  <!-- -->
+  <div class="drawer bet-settings-panel-container" data-v-4dabf22c="" data-v-5982aeed="" style="display: none;">
+   <div class="drawer__mask" data-v-5982aeed="" style="background-color: black;">
+   </div>
+   <!-- -->
+  </div>
+ </div>
+</div>
+
+<div class="betslip-mode-real" data-betslip-mode="real" data-op="betslip-container" id="betslip-container">
+ <div class="m-betslips m-betslips-off" style="position: absolute;">
+  <div class="m-betslip-header real-theme" data-v-71c29cfa="">
+   <div class="head-container" data-v-71c29cfa="">
+    <div class="wrapper wrapper-gap real-theme is-empty-selection" data-v-71c29cfa="">
+     <div class="wrapper-item bet-info-panel" data-v-71c29cfa="">
+      <div class="bet-count-wrapper bet-count" data-op="betslip-multi-count" data-v-57c32b1e="" data-v-71c29cfa="">
+       <span class="is-zero real-theme" data-v-57c32b1e="">
+        0
+       </span>
+      </div>
+      <div class="mode-switch-button" data-v-71c29cfa="">
+       <div class="switch-box">
+        <div class="shadow-text right-side show-highlight" data-op="switch-box-right">
+         SIM
+        </div>
+        <div class="inside-btn left-side inactive" data-op="switch-box-left">
+         REAL
+        </div>
+        <div class="fake-content fake-content-first">
+         SIM
+        </div>
+        <div class="fake-content">
+         REAL
+        </div>
+       </div>
+      </div>
+      <div class="mr-auto red-dot-block" data-v-71c29cfa="">
+       <!-- -->
+      </div>
+     </div>
+     <div class="wrapper-item middle close" data-v-71c29cfa="">
+      <div class="icon-font-base" data-v-71c29cfa="" data-v-fe6418fe="" style="font-size: 20px;">
+       
+      </div>
+     </div>
+     <div class="wrapper-item user-assets-panel" data-v-71c29cfa="">
+      <div class="not-login ml-auto" data-v-71c29cfa="">
+       <span data-cms-key="register" data-cms-page="common_functions" data-v-71c29cfa="">
+        Register
+       </span>
+       <span data-cms-key="log_in" data-cms-page="common_functions" data-v-71c29cfa="">
+        Login
+       </span>
+      </div>
+     </div>
+    </div>
+    <div class="wrapper separate-part" data-v-71c29cfa="">
+     <!-- -->
+     <!-- -->
+    </div>
+   </div>
+  </div>
+  <div class="m-bet-head">
+   <div class="m-snap-nav-wrap m-list-bet-type" style="display: none; overflow: hidden;">
+    <ul class="m-snap-nav flex" style="transform: translate(0px, 0px) translateZ(0px); transition-duration: 350ms; transition-timing-function: cubic-bezier(0.1, 0.57, 0.1, 1);">
+     <li class="m-list-bet-type-item m-snap-nav-item active" data-op="betslip-multi-tag-single">
+      <span data-cms-key="singles" data-cms-page="component_betslip">
+       Single
+      </span>
+      <!-- -->
+     </li>
+     <li class="flex flex-center m-list-bet-type-item m-snap-nav-item m-snap-nav-item--disabled" data-op="betslip-multi-tag-multi">
+      <span data-cms-key="multiple" data-cms-page="component_betslip">
+       Multiple
+      </span>
+     </li>
+     <li class="m-list-bet-type-item m-snap-nav-item m-snap-nav-item--disabled" data-op="betslip-multi-tag-system">
+      <span data-cms-key="system" data-cms-page="component_betslip">
+       System
+      </span>
+     </li>
+    </ul>
+    <i class="controls left-controls">
+    </i>
+    <i class="controls right-controls">
+    </i>
+   </div>
+   <div class="betslip-notification" data-v-3db23bd6="">
+    <!-- -->
+    <!-- -->
+    <!-- -->
+   </div>
+   <!-- -->
+  </div>
+  <div class="m-default" data-v-74657e65="">
+   <p class="m-default-info" data-v-74657e65="">
+    <span data-cms-key="please_insert_booking_code" data-cms-page="component_betslip" data-v-74657e65="">
+     Please insert booking code
+    </span>
+    <span class="m-dialog-tip" data-v-74657e65="">
+    </span>
+   </p>
+   <div class="m-code-wrapper" data-v-74657e65="">
+    <div class="country-main af-select selected" data-v-74657e65="" tabindex="0">
+     <div class="af-select-title" data-op="label-odds-option">
+      <span class="af-select-input">
+       Ghana
+       <!-- -->
+      </span>
+      <span class="af-select-icon-item">
+       <em class="icon">
+        ^
+       </em>
+      </span>
+     </div>
+     <div class="af-select-list animate-core" data-op="odds-option-menu" style="display: none; width: 0px;">
+      <span class="af-select-item active af-select-item" data-id="0" data-op="odds-option-menu-item">
+       Ghana
+      </span>
+      <span class="af-select-item af-select-item" data-id="1" data-op="odds-option-menu-item">
+       Nigeria
+      </span>
+      <span class="af-select-item af-select-item" data-id="2" data-op="odds-option-menu-item">
+       Tanzania
+      </span>
+      <span class="af-select-item af-select-item" data-id="3" data-op="odds-option-menu-item">
+       Uganda
+      </span>
+      <span class="af-select-item af-select-item" data-id="4" data-op="odds-option-menu-item">
+       Zambia
+      </span>
+      <span class="af-select-item af-select-item" data-id="5" data-op="odds-option-menu-item">
+       International
+      </span>
+      <span class="af-select-item af-select-item" data-id="6" data-op="odds-option-menu-item">
+       Brazil
+      </span>
+      <span class="af-select-item af-select-item" data-id="7" data-op="odds-option-menu-item">
+       Kenya
+      </span>
+     </div>
+    </div>
+    <div class="m-default-code m-input-wap-wrapper" data-v-74657e65="">
+     <!-- -->
+     <i class="m-input-wap-icon m-input-wap-icon--clickable m-icon-delete">
+     </i>
+     <input class="m-input-wap fs-exclude" name="" placeholder="Booking Code" type="input"/>
+     <!-- -->
+    </div>
+   </div>
+   <!-- -->
+   <div class="share-code-btn share-code-btn--disabled" data-v-74657e65="">
+    <span data-v-74657e65="">
+     Load
+    </span>
+   </div>
+   <div class="divider" data-v-74657e65="">
+    <div class="divider__mid" data-v-74657e65="">
+     or
+    </div>
+   </div>
+   <div class="feature-entry" data-v-74657e65="">
+    <!-- -->
+    <div class="feature-entry__btn" data-op="betslip-multimaker-entry" data-v-74657e65="">
+     <span data-v-74657e65="">
+      <img data-v-74657e65="" src="//s.sporty.net/global/main/modules/main/mobile/multiMaker/image/mm_main_icon.965251cc2f.svg"/>
+      <span data-cms-key="try_multi_maker" data-cms-page="component_betslip" data-v-74657e65="">
+       Try Multi Maker
+      </span>
+     </span>
+    </div>
+   </div>
+  </div>
+  <!-- -->
+ </div>
+ <!-- -->
+ <!-- -->
+ <div class="drawer bet-settings-panel-container" data-v-4dabf22c="" data-v-5982aeed="" style="display: none;">
+  <div class="drawer__mask" data-v-5982aeed="" style="background-color: black;">
+  </div>
+  <!-- -->
+ </div>
+</div>
+
+<div class="m-betslips m-betslips-off" style="position: absolute;">
+ <div class="m-betslip-header real-theme" data-v-71c29cfa="">
+  <div class="head-container" data-v-71c29cfa="">
+   <div class="wrapper wrapper-gap real-theme is-empty-selection" data-v-71c29cfa="">
+    <div class="wrapper-item bet-info-panel" data-v-71c29cfa="">
+     <div class="bet-count-wrapper bet-count" data-op="betslip-multi-count" data-v-57c32b1e="" data-v-71c29cfa="">
+      <span class="is-zero real-theme" data-v-57c32b1e="">
+       0
+      </span>
+     </div>
+     <div class="mode-switch-button" data-v-71c29cfa="">
+      <div class="switch-box">
+       <div class="shadow-text right-side show-highlight" data-op="switch-box-right">
+        SIM
+       </div>
+       <div class="inside-btn left-side inactive" data-op="switch-box-left">
+        REAL
+       </div>
+       <div class="fake-content fake-content-first">
+        SIM
+       </div>
+       <div class="fake-content">
+        REAL
+       </div>
+      </div>
+     </div>
+     <div class="mr-auto red-dot-block" data-v-71c29cfa="">
+      <!-- -->
+     </div>
+    </div>
+    <div class="wrapper-item middle close" data-v-71c29cfa="">
+     <div class="icon-font-base" data-v-71c29cfa="" data-v-fe6418fe="" style="font-size: 20px;">
+      
+     </div>
+    </div>
+    <div class="wrapper-item user-assets-panel" data-v-71c29cfa="">
+     <div class="not-login ml-auto" data-v-71c29cfa="">
+      <span data-cms-key="register" data-cms-page="common_functions" data-v-71c29cfa="">
+       Register
+      </span>
+      <span data-cms-key="log_in" data-cms-page="common_functions" data-v-71c29cfa="">
+       Login
+      </span>
+     </div>
+    </div>
+   </div>
+   <div class="wrapper separate-part" data-v-71c29cfa="">
+    <!-- -->
+    <!-- -->
+   </div>
+  </div>
+ </div>
+ <div class="m-bet-head">
+  <div class="m-snap-nav-wrap m-list-bet-type" style="display: none; overflow: hidden;">
+   <ul class="m-snap-nav flex" style="transform: translate(0px, 0px) translateZ(0px); transition-duration: 350ms; transition-timing-function: cubic-bezier(0.1, 0.57, 0.1, 1);">
+    <li class="m-list-bet-type-item m-snap-nav-item active" data-op="betslip-multi-tag-single">
+     <span data-cms-key="singles" data-cms-page="component_betslip">
+      Single
+     </span>
+     <!-- -->
+    </li>
+    <li class="flex flex-center m-list-bet-type-item m-snap-nav-item m-snap-nav-item--disabled" data-op="betslip-multi-tag-multi">
+     <span data-cms-key="multiple" data-cms-page="component_betslip">
+      Multiple
+     </span>
+    </li>
+    <li class="m-list-bet-type-item m-snap-nav-item m-snap-nav-item--disabled" data-op="betslip-multi-tag-system">
+     <span data-cms-key="system" data-cms-page="component_betslip">
+      System
+     </span>
+    </li>
+   </ul>
+   <i class="controls left-controls">
+   </i>
+   <i class="controls right-controls">
+   </i>
+  </div>
+  <div class="betslip-notification" data-v-3db23bd6="">
+   <!-- -->
+   <!-- -->
+   <!-- -->
+  </div>
+  <!-- -->
+ </div>
+ <div class="m-default" data-v-74657e65="">
+  <p class="m-default-info" data-v-74657e65="">
+   <span data-cms-key="please_insert_booking_code" data-cms-page="component_betslip" data-v-74657e65="">
+    Please insert booking code
+   </span>
+   <span class="m-dialog-tip" data-v-74657e65="">
+   </span>
+  </p>
+  <div class="m-code-wrapper" data-v-74657e65="">
+   <div class="country-main af-select selected" data-v-74657e65="" tabindex="0">
+    <div class="af-select-title" data-op="label-odds-option">
+     <span class="af-select-input">
+      Ghana
+      <!-- -->
+     </span>
+     <span class="af-select-icon-item">
+      <em class="icon">
+       ^
+      </em>
+     </span>
+    </div>
+    <div class="af-select-list animate-core" data-op="odds-option-menu" style="display: none; width: 0px;">
+     <span class="af-select-item active af-select-item" data-id="0" data-op="odds-option-menu-item">
+      Ghana
+     </span>
+     <span class="af-select-item af-select-item" data-id="1" data-op="odds-option-menu-item">
+      Nigeria
+     </span>
+     <span class="af-select-item af-select-item" data-id="2" data-op="odds-option-menu-item">
+      Tanzania
+     </span>
+     <span class="af-select-item af-select-item" data-id="3" data-op="odds-option-menu-item">
+      Uganda
+     </span>
+     <span class="af-select-item af-select-item" data-id="4" data-op="odds-option-menu-item">
+      Zambia
+     </span>
+     <span class="af-select-item af-select-item" data-id="5" data-op="odds-option-menu-item">
+      International
+     </span>
+     <span class="af-select-item af-select-item" data-id="6" data-op="odds-option-menu-item">
+      Brazil
+     </span>
+     <span class="af-select-item af-select-item" data-id="7" data-op="odds-option-menu-item">
+      Kenya
+     </span>
+    </div>
+   </div>
+   <div class="m-default-code m-input-wap-wrapper" data-v-74657e65="">
+    <!-- -->
+    <i class="m-input-wap-icon m-input-wap-icon--clickable m-icon-delete">
+    </i>
+    <input class="m-input-wap fs-exclude" name="" placeholder="Booking Code" type="input"/>
+    <!-- -->
+   </div>
+  </div>
+  <!-- -->
+  <div class="share-code-btn share-code-btn--disabled" data-v-74657e65="">
+   <span data-v-74657e65="">
+    Load
+   </span>
+  </div>
+  <div class="divider" data-v-74657e65="">
+   <div class="divider__mid" data-v-74657e65="">
+    or
+   </div>
+  </div>
+  <div class="feature-entry" data-v-74657e65="">
+   <!-- -->
+   <div class="feature-entry__btn" data-op="betslip-multimaker-entry" data-v-74657e65="">
+    <span data-v-74657e65="">
+     <img data-v-74657e65="" src="//s.sporty.net/global/main/modules/main/mobile/multiMaker/image/mm_main_icon.965251cc2f.svg"/>
+     <span data-cms-key="try_multi_maker" data-cms-page="component_betslip" data-v-74657e65="">
+      Try Multi Maker
+     </span>
+    </span>
+   </div>
+  </div>
+ </div>
+ <!-- -->
+</div>
+
+<div class="m-betslip-header real-theme" data-v-71c29cfa="">
+ <div class="head-container" data-v-71c29cfa="">
+  <div class="wrapper wrapper-gap real-theme is-empty-selection" data-v-71c29cfa="">
+   <div class="wrapper-item bet-info-panel" data-v-71c29cfa="">
+    <div class="bet-count-wrapper bet-count" data-op="betslip-multi-count" data-v-57c32b1e="" data-v-71c29cfa="">
+     <span class="is-zero real-theme" data-v-57c32b1e="">
+      0
+     </span>
+    </div>
+    <div class="mode-switch-button" data-v-71c29cfa="">
+     <div class="switch-box">
+      <div class="shadow-text right-side show-highlight" data-op="switch-box-right">
+       SIM
+      </div>
+      <div class="inside-btn left-side inactive" data-op="switch-box-left">
+       REAL
+      </div>
+      <div class="fake-content fake-content-first">
+       SIM
+      </div>
+      <div class="fake-content">
+       REAL
+      </div>
+     </div>
+    </div>
+    <div class="mr-auto red-dot-block" data-v-71c29cfa="">
+     <!-- -->
+    </div>
+   </div>
+   <div class="wrapper-item middle close" data-v-71c29cfa="">
+    <div class="icon-font-base" data-v-71c29cfa="" data-v-fe6418fe="" style="font-size: 20px;">
+     
+    </div>
+   </div>
+   <div class="wrapper-item user-assets-panel" data-v-71c29cfa="">
+    <div class="not-login ml-auto" data-v-71c29cfa="">
+     <span data-cms-key="register" data-cms-page="common_functions" data-v-71c29cfa="">
+      Register
+     </span>
+     <span data-cms-key="log_in" data-cms-page="common_functions" data-v-71c29cfa="">
+      Login
+     </span>
+    </div>
+   </div>
+  </div>
+  <div class="wrapper separate-part" data-v-71c29cfa="">
+   <!-- -->
+   <!-- -->
+  </div>
+ </div>
+</div>
+
+<div class="head-container" data-v-71c29cfa="">
+ <div class="wrapper wrapper-gap real-theme is-empty-selection" data-v-71c29cfa="">
+  <div class="wrapper-item bet-info-panel" data-v-71c29cfa="">
+   <div class="bet-count-wrapper bet-count" data-op="betslip-multi-count" data-v-57c32b1e="" data-v-71c29cfa="">
+    <span class="is-zero real-theme" data-v-57c32b1e="">
+     0
+    </span>
+   </div>
+   <div class="mode-switch-button" data-v-71c29cfa="">
+    <div class="switch-box">
+     <div class="shadow-text right-side show-highlight" data-op="switch-box-right">
+      SIM
+     </div>
+     <div class="inside-btn left-side inactive" data-op="switch-box-left">
+      REAL
+     </div>
+     <div class="fake-content fake-content-first">
+      SIM
+     </div>
+     <div class="fake-content">
+      REAL
+     </div>
+    </div>
+   </div>
+   <div class="mr-auto red-dot-block" data-v-71c29cfa="">
+    <!-- -->
+   </div>
+  </div>
+  <div class="wrapper-item middle close" data-v-71c29cfa="">
+   <div class="icon-font-base" data-v-71c29cfa="" data-v-fe6418fe="" style="font-size: 20px;">
+    
+   </div>
+  </div>
+  <div class="wrapper-item user-assets-panel" data-v-71c29cfa="">
+   <div class="not-login ml-auto" data-v-71c29cfa="">
+    <span data-cms-key="register" data-cms-page="common_functions" data-v-71c29cfa="">
+     Register
+    </span>
+    <span data-cms-key="log_in" data-cms-page="common_functions" data-v-71c29cfa="">
+     Login
+    </span>
+   </div>
+  </div>
+ </div>
+ <div class="wrapper separate-part" data-v-71c29cfa="">
+  <!-- -->
+  <!-- -->
+ </div>
+</div>
+
+<div class="wrapper wrapper-gap real-theme is-empty-selection" data-v-71c29cfa="">
+ <div class="wrapper-item bet-info-panel" data-v-71c29cfa="">
+  <div class="bet-count-wrapper bet-count" data-op="betslip-multi-count" data-v-57c32b1e="" data-v-71c29cfa="">
+   <span class="is-zero real-theme" data-v-57c32b1e="">
+    0
+   </span>
+  </div>
+  <div class="mode-switch-button" data-v-71c29cfa="">
+   <div class="switch-box">
+    <div class="shadow-text right-side show-highlight" data-op="switch-box-right">
+     SIM
+    </div>
+    <div class="inside-btn left-side inactive" data-op="switch-box-left">
+     REAL
+    </div>
+    <div class="fake-content fake-content-first">
+     SIM
+    </div>
+    <div class="fake-content">
+     REAL
+    </div>
+   </div>
+  </div>
+  <div class="mr-auto red-dot-block" data-v-71c29cfa="">
+   <!-- -->
+  </div>
+ </div>
+ <div class="wrapper-item middle close" data-v-71c29cfa="">
+  <div class="icon-font-base" data-v-71c29cfa="" data-v-fe6418fe="" style="font-size: 20px;">
+   
+  </div>
+ </div>
+ <div class="wrapper-item user-assets-panel" data-v-71c29cfa="">
+  <div class="not-login ml-auto" data-v-71c29cfa="">
+   <span data-cms-key="register" data-cms-page="common_functions" data-v-71c29cfa="">
+    Register
+   </span>
+   <span data-cms-key="log_in" data-cms-page="common_functions" data-v-71c29cfa="">
+    Login
+   </span>
+  </div>
+ </div>
+</div>
+
+<div class="wrapper-item bet-info-panel" data-v-71c29cfa="">
+ <div class="bet-count-wrapper bet-count" data-op="betslip-multi-count" data-v-57c32b1e="" data-v-71c29cfa="">
+  <span class="is-zero real-theme" data-v-57c32b1e="">
+   0
+  </span>
+ </div>
+ <div class="mode-switch-button" data-v-71c29cfa="">
+  <div class="switch-box">
+   <div class="shadow-text right-side show-highlight" data-op="switch-box-right">
+    SIM
+   </div>
+   <div class="inside-btn left-side inactive" data-op="switch-box-left">
+    REAL
+   </div>
+   <div class="fake-content fake-content-first">
+    SIM
+   </div>
+   <div class="fake-content">
+    REAL
+   </div>
+  </div>
+ </div>
+ <div class="mr-auto red-dot-block" data-v-71c29cfa="">
+  <!-- -->
+ </div>
+</div>
+
+<div class="bet-count-wrapper bet-count" data-op="betslip-multi-count" data-v-57c32b1e="" data-v-71c29cfa="">
+ <span class="is-zero real-theme" data-v-57c32b1e="">
+  0
+ </span>
+</div>
+
+<div class="mode-switch-button" data-v-71c29cfa="">
+ <div class="switch-box">
+  <div class="shadow-text right-side show-highlight" data-op="switch-box-right">
+   SIM
+  </div>
+  <div class="inside-btn left-side inactive" data-op="switch-box-left">
+   REAL
+  </div>
+  <div class="fake-content fake-content-first">
+   SIM
+  </div>
+  <div class="fake-content">
+   REAL
+  </div>
+ </div>
+</div>
+
+<div class="switch-box">
+ <div class="shadow-text right-side show-highlight" data-op="switch-box-right">
+  SIM
+ </div>
+ <div class="inside-btn left-side inactive" data-op="switch-box-left">
+  REAL
+ </div>
+ <div class="fake-content fake-content-first">
+  SIM
+ </div>
+ <div class="fake-content">
+  REAL
+ </div>
+</div>
+
+<div class="shadow-text right-side show-highlight" data-op="switch-box-right">
+ SIM
+</div>
+
+<div class="inside-btn left-side inactive" data-op="switch-box-left">
+ REAL
+</div>
+
+<div class="fake-content fake-content-first">
+ SIM
+</div>
+
+<div class="fake-content">
+ REAL
+</div>
+
+<div class="mr-auto red-dot-block" data-v-71c29cfa="">
+ <!-- -->
+</div>
+
+<div class="wrapper-item middle close" data-v-71c29cfa="">
+ <div class="icon-font-base" data-v-71c29cfa="" data-v-fe6418fe="" style="font-size: 20px;">
+  
+ </div>
+</div>
+
+<div class="icon-font-base" data-v-71c29cfa="" data-v-fe6418fe="" style="font-size: 20px;">
+ 
+</div>
+
+<div class="wrapper-item user-assets-panel" data-v-71c29cfa="">
+ <div class="not-login ml-auto" data-v-71c29cfa="">
+  <span data-cms-key="register" data-cms-page="common_functions" data-v-71c29cfa="">
+   Register
+  </span>
+  <span data-cms-key="log_in" data-cms-page="common_functions" data-v-71c29cfa="">
+   Login
+  </span>
+ </div>
+</div>
+
+<div class="not-login ml-auto" data-v-71c29cfa="">
+ <span data-cms-key="register" data-cms-page="common_functions" data-v-71c29cfa="">
+  Register
+ </span>
+ <span data-cms-key="log_in" data-cms-page="common_functions" data-v-71c29cfa="">
+  Login
+ </span>
+</div>
+
+<div class="wrapper separate-part" data-v-71c29cfa="">
+ <!-- -->
+ <!-- -->
+</div>
+
+<div class="m-bet-head">
+ <div class="m-snap-nav-wrap m-list-bet-type" style="display: none; overflow: hidden;">
+  <ul class="m-snap-nav flex" style="transform: translate(0px, 0px) translateZ(0px); transition-duration: 350ms; transition-timing-function: cubic-bezier(0.1, 0.57, 0.1, 1);">
+   <li class="m-list-bet-type-item m-snap-nav-item active" data-op="betslip-multi-tag-single">
+    <span data-cms-key="singles" data-cms-page="component_betslip">
+     Single
+    </span>
+    <!-- -->
+   </li>
+   <li class="flex flex-center m-list-bet-type-item m-snap-nav-item m-snap-nav-item--disabled" data-op="betslip-multi-tag-multi">
+    <span data-cms-key="multiple" data-cms-page="component_betslip">
+     Multiple
+    </span>
+   </li>
+   <li class="m-list-bet-type-item m-snap-nav-item m-snap-nav-item--disabled" data-op="betslip-multi-tag-system">
+    <span data-cms-key="system" data-cms-page="component_betslip">
+     System
+    </span>
+   </li>
+  </ul>
+  <i class="controls left-controls">
+  </i>
+  <i class="controls right-controls">
+  </i>
+ </div>
+ <div class="betslip-notification" data-v-3db23bd6="">
+  <!-- -->
+  <!-- -->
+  <!-- -->
+ </div>
+ <!-- -->
+</div>
+
+<div class="m-snap-nav-wrap m-list-bet-type" style="display: none; overflow: hidden;">
+ <ul class="m-snap-nav flex" style="transform: translate(0px, 0px) translateZ(0px); transition-duration: 350ms; transition-timing-function: cubic-bezier(0.1, 0.57, 0.1, 1);">
+  <li class="m-list-bet-type-item m-snap-nav-item active" data-op="betslip-multi-tag-single">
+   <span data-cms-key="singles" data-cms-page="component_betslip">
+    Single
+   </span>
+   <!-- -->
+  </li>
+  <li class="flex flex-center m-list-bet-type-item m-snap-nav-item m-snap-nav-item--disabled" data-op="betslip-multi-tag-multi">
+   <span data-cms-key="multiple" data-cms-page="component_betslip">
+    Multiple
+   </span>
+  </li>
+  <li class="m-list-bet-type-item m-snap-nav-item m-snap-nav-item--disabled" data-op="betslip-multi-tag-system">
+   <span data-cms-key="system" data-cms-page="component_betslip">
+    System
+   </span>
+  </li>
+ </ul>
+ <i class="controls left-controls">
+ </i>
+ <i class="controls right-controls">
+ </i>
+</div>
+
+<div class="betslip-notification" data-v-3db23bd6="">
+ <!-- -->
+ <!-- -->
+ <!-- -->
+</div>
+
+<div class="m-default" data-v-74657e65="">
+ <p class="m-default-info" data-v-74657e65="">
+  <span data-cms-key="please_insert_booking_code" data-cms-page="component_betslip" data-v-74657e65="">
+   Please insert booking code
+  </span>
+  <span class="m-dialog-tip" data-v-74657e65="">
+  </span>
+ </p>
+ <div class="m-code-wrapper" data-v-74657e65="">
+  <div class="country-main af-select selected" data-v-74657e65="" tabindex="0">
+   <div class="af-select-title" data-op="label-odds-option">
+    <span class="af-select-input">
+     Ghana
+     <!-- -->
+    </span>
+    <span class="af-select-icon-item">
+     <em class="icon">
+      ^
+     </em>
+    </span>
+   </div>
+   <div class="af-select-list animate-core" data-op="odds-option-menu" style="display: none; width: 0px;">
+    <span class="af-select-item active af-select-item" data-id="0" data-op="odds-option-menu-item">
+     Ghana
+    </span>
+    <span class="af-select-item af-select-item" data-id="1" data-op="odds-option-menu-item">
+     Nigeria
+    </span>
+    <span class="af-select-item af-select-item" data-id="2" data-op="odds-option-menu-item">
+     Tanzania
+    </span>
+    <span class="af-select-item af-select-item" data-id="3" data-op="odds-option-menu-item">
+     Uganda
+    </span>
+    <span class="af-select-item af-select-item" data-id="4" data-op="odds-option-menu-item">
+     Zambia
+    </span>
+    <span class="af-select-item af-select-item" data-id="5" data-op="odds-option-menu-item">
+     International
+    </span>
+    <span class="af-select-item af-select-item" data-id="6" data-op="odds-option-menu-item">
+     Brazil
+    </span>
+    <span class="af-select-item af-select-item" data-id="7" data-op="odds-option-menu-item">
+     Kenya
+    </span>
+   </div>
+  </div>
+  <div class="m-default-code m-input-wap-wrapper" data-v-74657e65="">
+   <!-- -->
+   <i class="m-input-wap-icon m-input-wap-icon--clickable m-icon-delete">
+   </i>
+   <input class="m-input-wap fs-exclude" name="" placeholder="Booking Code" type="input"/>
+   <!-- -->
+  </div>
+ </div>
+ <!-- -->
+ <div class="share-code-btn share-code-btn--disabled" data-v-74657e65="">
+  <span data-v-74657e65="">
+   Load
+  </span>
+ </div>
+ <div class="divider" data-v-74657e65="">
+  <div class="divider__mid" data-v-74657e65="">
+   or
+  </div>
+ </div>
+ <div class="feature-entry" data-v-74657e65="">
+  <!-- -->
+  <div class="feature-entry__btn" data-op="betslip-multimaker-entry" data-v-74657e65="">
+   <span data-v-74657e65="">
+    <img data-v-74657e65="" src="//s.sporty.net/global/main/modules/main/mobile/multiMaker/image/mm_main_icon.965251cc2f.svg"/>
+    <span data-cms-key="try_multi_maker" data-cms-page="component_betslip" data-v-74657e65="">
+     Try Multi Maker
+    </span>
+   </span>
+  </div>
+ </div>
+</div>
+
+<div class="m-code-wrapper" data-v-74657e65="">
+ <div class="country-main af-select selected" data-v-74657e65="" tabindex="0">
+  <div class="af-select-title" data-op="label-odds-option">
+   <span class="af-select-input">
+    Ghana
+    <!-- -->
+   </span>
+   <span class="af-select-icon-item">
+    <em class="icon">
+     ^
+    </em>
+   </span>
+  </div>
+  <div class="af-select-list animate-core" data-op="odds-option-menu" style="display: none; width: 0px;">
+   <span class="af-select-item active af-select-item" data-id="0" data-op="odds-option-menu-item">
+    Ghana
+   </span>
+   <span class="af-select-item af-select-item" data-id="1" data-op="odds-option-menu-item">
+    Nigeria
+   </span>
+   <span class="af-select-item af-select-item" data-id="2" data-op="odds-option-menu-item">
+    Tanzania
+   </span>
+   <span class="af-select-item af-select-item" data-id="3" data-op="odds-option-menu-item">
+    Uganda
+   </span>
+   <span class="af-select-item af-select-item" data-id="4" data-op="odds-option-menu-item">
+    Zambia
+   </span>
+   <span class="af-select-item af-select-item" data-id="5" data-op="odds-option-menu-item">
+    International
+   </span>
+   <span class="af-select-item af-select-item" data-id="6" data-op="odds-option-menu-item">
+    Brazil
+   </span>
+   <span class="af-select-item af-select-item" data-id="7" data-op="odds-option-menu-item">
+    Kenya
+   </span>
+  </div>
+ </div>
+ <div class="m-default-code m-input-wap-wrapper" data-v-74657e65="">
+  <!-- -->
+  <i class="m-input-wap-icon m-input-wap-icon--clickable m-icon-delete">
+  </i>
+  <input class="m-input-wap fs-exclude" name="" placeholder="Booking Code" type="input"/>
+  <!-- -->
+ </div>
+</div>
+
+<div class="country-main af-select selected" data-v-74657e65="" tabindex="0">
+ <div class="af-select-title" data-op="label-odds-option">
+  <span class="af-select-input">
+   Ghana
+   <!-- -->
+  </span>
+  <span class="af-select-icon-item">
+   <em class="icon">
+    ^
+   </em>
+  </span>
+ </div>
+ <div class="af-select-list animate-core" data-op="odds-option-menu" style="display: none; width: 0px;">
+  <span class="af-select-item active af-select-item" data-id="0" data-op="odds-option-menu-item">
+   Ghana
+  </span>
+  <span class="af-select-item af-select-item" data-id="1" data-op="odds-option-menu-item">
+   Nigeria
+  </span>
+  <span class="af-select-item af-select-item" data-id="2" data-op="odds-option-menu-item">
+   Tanzania
+  </span>
+  <span class="af-select-item af-select-item" data-id="3" data-op="odds-option-menu-item">
+   Uganda
+  </span>
+  <span class="af-select-item af-select-item" data-id="4" data-op="odds-option-menu-item">
+   Zambia
+  </span>
+  <span class="af-select-item af-select-item" data-id="5" data-op="odds-option-menu-item">
+   International
+  </span>
+  <span class="af-select-item af-select-item" data-id="6" data-op="odds-option-menu-item">
+   Brazil
+  </span>
+  <span class="af-select-item af-select-item" data-id="7" data-op="odds-option-menu-item">
+   Kenya
+  </span>
+ </div>
+</div>
+
+<div class="af-select-title" data-op="label-odds-option">
+ <span class="af-select-input">
+  Ghana
+  <!-- -->
+ </span>
+ <span class="af-select-icon-item">
+  <em class="icon">
+   ^
+  </em>
+ </span>
+</div>
+
+<div class="af-select-list animate-core" data-op="odds-option-menu" style="display: none; width: 0px;">
+ <span class="af-select-item active af-select-item" data-id="0" data-op="odds-option-menu-item">
+  Ghana
+ </span>
+ <span class="af-select-item af-select-item" data-id="1" data-op="odds-option-menu-item">
+  Nigeria
+ </span>
+ <span class="af-select-item af-select-item" data-id="2" data-op="odds-option-menu-item">
+  Tanzania
+ </span>
+ <span class="af-select-item af-select-item" data-id="3" data-op="odds-option-menu-item">
+  Uganda
+ </span>
+ <span class="af-select-item af-select-item" data-id="4" data-op="odds-option-menu-item">
+  Zambia
+ </span>
+ <span class="af-select-item af-select-item" data-id="5" data-op="odds-option-menu-item">
+  International
+ </span>
+ <span class="af-select-item af-select-item" data-id="6" data-op="odds-option-menu-item">
+  Brazil
+ </span>
+ <span class="af-select-item af-select-item" data-id="7" data-op="odds-option-menu-item">
+  Kenya
+ </span>
+</div>
+
+<div class="m-default-code m-input-wap-wrapper" data-v-74657e65="">
+ <!-- -->
+ <i class="m-input-wap-icon m-input-wap-icon--clickable m-icon-delete">
+ </i>
+ <input class="m-input-wap fs-exclude" name="" placeholder="Booking Code" type="input"/>
+ <!-- -->
+</div>
+
+<div class="share-code-btn share-code-btn--disabled" data-v-74657e65="">
+ <span data-v-74657e65="">
+  Load
+ </span>
+</div>
+
+<div class="divider" data-v-74657e65="">
+ <div class="divider__mid" data-v-74657e65="">
+  or
+ </div>
+</div>
+
+<div class="divider__mid" data-v-74657e65="">
+ or
+</div>
+
+<div class="feature-entry" data-v-74657e65="">
+ <!-- -->
+ <div class="feature-entry__btn" data-op="betslip-multimaker-entry" data-v-74657e65="">
+  <span data-v-74657e65="">
+   <img data-v-74657e65="" src="//s.sporty.net/global/main/modules/main/mobile/multiMaker/image/mm_main_icon.965251cc2f.svg"/>
+   <span data-cms-key="try_multi_maker" data-cms-page="component_betslip" data-v-74657e65="">
+    Try Multi Maker
+   </span>
+  </span>
+ </div>
+</div>
+
+<div class="feature-entry__btn" data-op="betslip-multimaker-entry" data-v-74657e65="">
+ <span data-v-74657e65="">
+  <img data-v-74657e65="" src="//s.sporty.net/global/main/modules/main/mobile/multiMaker/image/mm_main_icon.965251cc2f.svg"/>
+  <span data-cms-key="try_multi_maker" data-cms-page="component_betslip" data-v-74657e65="">
+   Try Multi Maker
+  </span>
+ </span>
+</div>
+
+<div class="drawer bet-settings-panel-container" data-v-4dabf22c="" data-v-5982aeed="" style="display: none;">
+ <div class="drawer__mask" data-v-5982aeed="" style="background-color: black;">
+ </div>
+ <!-- -->
+</div>
+
+<div class="drawer__mask" data-v-5982aeed="" style="background-color: black;">
+</div>
+
+<span class="m-icon m-icon--back" data-op="nav-sec-back" data-v-13470acb="">
+</span>
+
+<span class="title" data-op="nav-title" data-v-13470acb="">
+ Details
+</span>
+
+<span class="event-date">
+ <!-- -->
+ <!-- -->
+ <!-- -->
+ 29/04 Saturday
+</span>
+
+<span class="event-time">
+ 21:30
+</span>
+
+<span class="event-gameid">
+ ID 31723
+</span>
+
+<span class="m-text" data-v-c0b0b3a4="">
+ Markets
+</span>
+
+<span class="m-text" data-v-c0b0b3a4="">
+ Stats
+</span>
+
+<span class="m-text" data-v-c0b0b3a4="">
+ Comments
+</span>
+
+<span class="dis-icon" data-v-15c4befb="">
+</span>
+
+<span class="text" data-v-15c4befb="">
+ 1X2
+</span>
+
+<span class="m-icon-tips" data-v-15c4befb="">
+</span>
+
+<span class="market-right-wrap" data-v-15c4befb="">
+ <span class="market-favor" data-v-15c4befb="">
+  <img data-v-15c4befb="" height="24px" src="//s.sporty.net/global/main/brand/sportybet/mobile/images/unfavor.be243d1110.svg" width="24px"/>
+ </span>
+</span>
+
+<span class="market-favor" data-v-15c4befb="">
+ <img data-v-15c4befb="" height="24px" src="//s.sporty.net/global/main/brand/sportybet/mobile/images/unfavor.be243d1110.svg" width="24px"/>
+</span>
+
+<span class="count" data-op="bet-slip-count">
+ 0
+</span>
+
+<span class="is-zero real-theme" data-v-57c32b1e="">
+ 0
+</span>
+
+<span data-cms-key="register" data-cms-page="common_functions" data-v-71c29cfa="">
+ Register
+</span>
+
+<span data-cms-key="log_in" data-cms-page="common_functions" data-v-71c29cfa="">
+ Login
+</span>
+
+<span data-cms-key="singles" data-cms-page="component_betslip">
+ Single
+</span>
+
+<span data-cms-key="multiple" data-cms-page="component_betslip">
+ Multiple
+</span>
+
+<span data-cms-key="system" data-cms-page="component_betslip">
+ System
+</span>
+
+<span data-cms-key="please_insert_booking_code" data-cms-page="component_betslip" data-v-74657e65="">
+ Please insert booking code
+</span>
+
+<span class="m-dialog-tip" data-v-74657e65="">
+</span>
+
+<span class="af-select-input">
+ Ghana
+ <!-- -->
+</span>
+
+<span class="af-select-icon-item">
+ <em class="icon">
+  ^
+ </em>
+</span>
+
+<span class="af-select-item active af-select-item" data-id="0" data-op="odds-option-menu-item">
+ Ghana
+</span>
+
+<span class="af-select-item af-select-item" data-id="1" data-op="odds-option-menu-item">
+ Nigeria
+</span>
+
+<span class="af-select-item af-select-item" data-id="2" data-op="odds-option-menu-item">
+ Tanzania
+</span>
+
+<span class="af-select-item af-select-item" data-id="3" data-op="odds-option-menu-item">
+ Uganda
+</span>
+
+<span class="af-select-item af-select-item" data-id="4" data-op="odds-option-menu-item">
+ Zambia
+</span>
+
+<span class="af-select-item af-select-item" data-id="5" data-op="odds-option-menu-item">
+ International
+</span>
+
+<span class="af-select-item af-select-item" data-id="6" data-op="odds-option-menu-item">
+ Brazil
+</span>
+
+<span class="af-select-item af-select-item" data-id="7" data-op="odds-option-menu-item">
+ Kenya
+</span>
+
+<span data-v-74657e65="">
+ Load
+</span>
+
+<span data-v-74657e65="">
+ <img data-v-74657e65="" src="//s.sporty.net/global/main/modules/main/mobile/multiMaker/image/mm_main_icon.965251cc2f.svg"/>
+ <span data-cms-key="try_multi_maker" data-cms-page="component_betslip" data-v-74657e65="">
+  Try Multi Maker
+ </span>
+</span>
+
+<span data-cms-key="try_multi_maker" data-cms-page="component_betslip" data-v-74657e65="">
+ Try Multi Maker
+</span>
+
+//s.sporty.net/global/main/brand/sportybet/mobile/images/winBg.002c75d9a0.png
+//s.sporty.net/global/main/brand/sportybet/mobile/images/unfavor.be243d1110.svg
+//s.sporty.net/global/main/brand/sportybet/mobile/images/license.89d68648de.svg
+//s.sporty.net/global/main/brand/sportybet/mobile/images/icon18.996cdffd94.svg
+https://s.sporty.net/cms/light_a81d61f961.png
+//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_tigo.6983114036.png
+//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_mtn.ae94024ba1.png
+//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_airtel.3be97f5903.png
+//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_vodafone.78b5fed714.png
+//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_visa.fd08bf37cf.png
+//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_mc.51fc36230c.png
+//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_gtbank.a868bb38f2.png
+//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_tigo.6983114036.png
+//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_mtn.ae94024ba1.png
+//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_airtel.3be97f5903.png
+//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_vodafone.78b5fed714.png
+//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_visa.fd08bf37cf.png
+//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_mc.51fc36230c.png
+//s.sporty.net/gh/main/modules/common-wap/components/layout/pagelate/footer/image/logo_gtbank.a868bb38f2.png
+//s.sporty.net/global/main/modules/main/mobile/multiMaker/image/mm_main_icon.965251cc2f.svg
+https://sp.analytics.yahoo.com/sp.pl?a=10000&d=Sat%2C%2029%20Apr%202023%2020%3A39%3A04%20GMT&n=0&b=Online%20Sports%20Betting%20Ghana%20%26%20Live%20Betting%20Odds%20at%20SportyBet&.yp=10141322&f=https%3A%2F%2Fwww.sportybet.com%2Fgh%2Fm%2Fsport%2Ffootball%2Fsr%3Acategory%3A437%2Fsr%3Atournament%3A27416%2Fsr%3Amatch%3A40482779&enc=UTF-8&yv=1.14.0&tagmgr=gtm
+https://www.google.com.hk/search?q=enable+javascript+chrome+&oq=enable+javascript+chrome+
